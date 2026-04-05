@@ -1,0 +1,26 @@
+{
+  "name": "GalleryImage",
+  "type": "object",
+  "title": "Gallery Image",
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "image_url": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Deity Photos"
+      ]
+    },
+    "alt_text": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "image_url",
+    "category"
+  ]
+}

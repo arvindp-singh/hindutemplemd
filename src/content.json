@@ -1,0 +1,682 @@
+{
+  "temple": {
+    "name": "The Hindu Temple of Metropolitan Washington",
+    "address": "10001 Riggs Road, Adelphi, MD 20783",
+    "phones": ["(301) 445-2165", "(301) 434-1000"],
+    "hours": {
+      "weekdays": "8 AM – 1 PM & 5 PM – 8 PM",
+      "weekends": "8 AM – 8 PM",
+      "morningAarti": "8 AM",
+      "eveningAarti": "8 PM"
+    },
+    "facebook": "https://www.facebook.com/TheHinduTempleMD",
+    "paypal": "https://www.paypal.com/cgi-bin/webscr",
+    "hallRentalEmail": "vippanchopra@yahoo.com",
+    "mapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3101.7!2d-76.9717!3d38.9897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c6b3b3b3b3b3%3A0x0!2s10001+Riggs+Rd%2C+Adelphi%2C+MD+20783!5e0!3m2!1sen!2sus!4v1620000000000!5m2!1sen!2sus",
+    "mapsDirections": "https://www.google.com/maps/dir/?api=1&destination=10001+Riggs+Road,+Adelphi,+MD+20783",
+    "logo": "/logo.png",
+    "templeImage": " /images/temple.jpg",
+    "whatsappGroup": "https://chat.whatsapp.com/REPLACE_WITH_GROUP_LINK",
+    "founded": "1988",
+    "newBuildingYear": "2007"
+  },
+  "about": {
+    "history": [
+      "This was the first temple in the DMV area. The temple started from a home in 1988 and later moved to its new building in 2007.",
+      "The objective of The Hindu Temple of Metropolitan Washington is to give genuine religious services in accordance with the Sastras to benefit individuals, families, and the community at large.",
+      "The mission also includes preserving and propagating Vedic, Sastra, Purana, and Hindu traditions, as well as instilling Sanatana Dharma ideals, culture, and heritage in future generations."
+    ],
+    "mission": "To provide genuine religious services in accordance with the Sastras, benefiting individuals, families, and the community.",
+    "vision": "To preserve Hindu traditions and instill Sanatana Dharma ideals, culture, and heritage in future generations across the DMV area.",
+    "timeline": [
+      {
+        "year": "1988",
+        "text": "Temple started from a home, serving the growing Hindu community in the DMV area."
+      },
+      {
+        "year": "2007",
+        "text": "Moved to the new building at 10001 Riggs Road, Adelphi, MD 20783."
+      },
+      {
+        "year": "Today",
+        "text": "Continuing to serve as a beacon of Sanatana Dharma for the metropolitan Washington community."
+      }
+    ],
+    "financialStatements2026": [
+      {
+        "month": "January 2026",
+        "url": "/statements/01_2026_Hindu_Temple_Financial_Statement.pdf"
+      },
+      {
+        "month": "February 2026",
+        "url": "/statements/02_2025_Hindu_Temple_Financial_Statement.pdf"
+      }
+    ]
+  },
+  "services": {
+    "sanskar": [
+      {
+        "name": "Namkaran",
+        "icon": "🕉️",
+        "desc": "On the tenth, eleventh, or twelfth day, this Sanskar is conducted with Mantra recitation. After completing this Sanskar, the child is given a name based on the 27 Nakshatras and the moon's position at the moment of birth."
+      },
+      {
+        "name": "Annaprasnan",
+        "icon": "🙏",
+        "desc": "On the sixth month, when the child is given solid food for the first time, this sanskar is performed. Mantras are recited and various deities are offered oblations."
+      },
+      {
+        "name": "Mundan",
+        "icon": "✂️",
+        "desc": "This Sanskar marks the first time a child's hair has been cut. After reaching the age of one year, the ceremony is held on an auspicious day to promote power, understanding, and longevity."
+      },
+      {
+        "name": "Upnayan",
+        "icon": "📿",
+        "desc": "The ceremony of wearing the sacred thread known as Yajnopaveetam. The sacred thread is ceremoniously worn when a male child reaches the age of five — this is a spiritual birth."
+      },
+      {
+        "name": "Vivah",
+        "icon": "💍",
+        "desc": "The beginning of one's life as a family. Vedic Hindu marriage is seen as sacramental, with one wife and one husband committing to each other for the rest of their lives before Agni."
+      },
+      {
+        "name": "Anteshthi",
+        "icon": "🪷",
+        "desc": "The ceremonies related with funerals — last rites. When death is imminent, gold, tulsi leaf, and Ganga water are placed in the mouth. The eldest son usually administers the last rites."
+      }
+    ],
+    "other": [
+      {
+        "name": "Mata Ki Chowki & Bhajan Sandhya",
+        "desc": "Devotional singing and prayers dedicated to Goddess Durga with bhajans and kirtans."
+      },
+      {
+        "name": "Sundar Kand Paath",
+        "desc": "Recitation of Sundar Kand from Ramcharitmanas, dedicated to Lord Hanuman."
+      },
+      {
+        "name": "Rudra Abhishekam",
+        "desc": "Sacred abhishekam ritual for Lord Shiva with Vedic mantras and offerings."
+      },
+      {
+        "name": "Satyanarayan Katha",
+        "desc": "Puja and katha dedicated to Lord Vishnu for prosperity and blessings."
+      },
+      {
+        "name": "Griha Pravesh",
+        "desc": "Housewarming ceremony to invoke blessings for a new home."
+      },
+      {
+        "name": "Sagai Samaroh / Engagement Ceremony",
+        "desc": "Traditional engagement ceremony with rituals and blessings for the couple."
+      },
+      {
+        "name": "Sehra Bandhi Ceremony",
+        "desc": "Pre-wedding ceremony where the groom is adorned with the sehra (wedding crown)."
+      },
+      {
+        "name": "Wedding Ceremony",
+        "desc": "Complete Vedic Hindu wedding ceremony with sacred fire and traditional rituals."
+      },
+      {
+        "name": "Shanti Paath",
+        "desc": "Peace ceremony with Vedic chants for harmony, prosperity, and well-being."
+      },
+      {
+        "name": "Shraddha Karam",
+        "desc": "Ancestral rites and ceremonies to honor departed souls."
+      },
+      {
+        "name": "Car Puja",
+        "desc": "Vehicle blessing ceremony for safety and auspicious beginnings."
+      }
+    ],
+    "priests": ["Pandit Pitamber Dutt Sharma", "Shri Ram Pandey"]
+  },
+  "hallRental": {
+    "images": [
+      "/HallRental/photo1.jpg",
+      "/HallRental/photo2.jpg",
+      "/HallRental/photo3.jpg",
+      "/HallRental/photo4.jpg",
+      "/HallRental/photo5.jpg",
+      "/HallRental/photo6.jpg"
+    ],
+    "features": [
+      "Spacious stage for ceremonies",
+      "Large seating area",
+      "Kitchen facilities available",
+      "Ample parking space",
+      "AV equipment available",
+      "Accessible location"
+    ]
+  },
+  "donate": {
+    "programs": [
+      {
+        "icon": "DollarSign",
+        "title": "Dollar-a-Day Program",
+        "desc": "A small daily contribution that makes a big difference. Just $1 a day — $365 a year — helps sustain our temple's daily operations, maintenance, and community programs."
+      },
+      {
+        "icon": "Heart",
+        "title": "One-Time Donation",
+        "desc": "Make a one-time gift of any amount to support the temple. Every contribution, no matter the size, helps us serve the community."
+      },
+      {
+        "icon": "Calendar",
+        "title": "Recurring Donation",
+        "desc": "Set up a monthly or annual recurring donation to provide steady support for temple activities and operations."
+      },
+      {
+        "icon": "Gift",
+        "title": "Sponsorships",
+        "desc": "Sponsor a specific event, puja, or community program. In-person and remote sponsorships are welcome."
+      }
+    ],
+    "suggestedAmounts": [21, 51, 101, 251, 501, 1001],
+    "forms": [
+      {
+        "title": "Membership Notice Flyer",
+        "desc": "Program overview and instructions",
+        "url": "/documents/DollarADay_Membership-NoticeFlyer.pdf"
+      },
+      {
+        "title": "Check / Online Payment Form",
+        "desc": "For check or PayPal/credit card payments",
+        "url": "/documents/DollarADay_CheckOnLineCreditCardPay_2025_June_update.pdf"
+      },
+      {
+        "title": "Auto Debit Authorization",
+        "desc": "For automatic monthly bank deductions",
+        "url": "/documents/Dollars_a_day_auto_debit_form.pdf"
+      }
+    ],
+    "quote": "No organization can continue without the support of the community. Please help us in any way you can — by providing time, money, or simply by joining and being with us."
+  },
+  "membership": {
+    "quote": "We make a living by what we get, but we make a life by what we give",
+    "quoteAuthor": "Swami Vivekananda",
+    "programDescription": "This program was initiated to help devotees support the day-to-day maintenance and operation of the Hindu Temple, providing religious programs to our community. Members commit to provide this support year after year. A monthly donation of $31 (approximately one dollar per day) or another specific amount will help sustain our temple's mission.",
+    "memberRecognition": "Name tags of all members are displayed in the Hindu Temple lobby for membership recognition and appreciation.",
+    "taxDeductible": "All donations are tax deductible to the extent allowed by law.",
+    "coordinators": [
+      {
+        "name": "Ms. Shukla Khanna, Chair",
+        "email": "skkhanna15@yahoo.com",
+        "phone": "(240) 246-6028"
+      },
+      {
+        "name": "Dr. Shyam Bajpai",
+        "email": "sbajpai@rocketmail.com",
+        "phone": "(301) 294-6030"
+      }
+    ],
+    "forms": [
+      {
+        "title": "Dollar-A-Day Membership Form",
+        "description": "Complete this form to join our Dollar-A-Day membership program with check or online payment options",
+        "url": "/documents/DollarADay_CheckOnLineCreditCardPay_2025_June_update.pdf"
+      },
+      {
+        "title": "Dollar-A-Day Membership Notice",
+        "description": "Learn about our Dollar-A-Day membership program and its benefits to the temple community"
+      },
+      {
+        "title": "Auto Debit Authorization Form",
+        "description": "Set up automatic monthly debit for convenient recurring donations to support the temple"
+      }
+    ],
+    "submissionSteps": [
+      {
+        "title": "Download and Complete",
+        "desc": "Download the appropriate form and fill it out completely."
+      },
+      {
+        "title": "Submit Your Form",
+        "desc": "Give the completed form to Mrs. Khanna, Dr. Bajpai, or Hindu Temple Priests/Manager, or mail it to: Hindu Temple, 10001 Riggs Road, Adelphi, MD 20783"
+      },
+      {
+        "title": "Keep Us Updated",
+        "desc": "Please notify the temple of any changes to your contact or mailing address to ensure you receive your tax-deductible annual donation statement."
+      }
+    ]
+  },
+  "home": {
+    "heroSubtitle": "Preserving and propagating Vedic traditions, Sastra, Purana, and Hindu heritage — instilling Sanatana Dharma ideals in future generations.",
+    "heroTagline": "Serving the DMV Community Since 1988",
+    "shantMantra": "Om, May all be happy, May all be free from illness, May all see what is auspicious, May no one suffer, Om Peace, Peace, Peace.",
+    "aboutText": [
+      "This was the first temple in the DMV area. The temple started from a home in 1988 and later moved to its new building in 2007. The objective of The Hindu Temple of Metropolitan Washington is to give genuine religious services in accordance with the Sastras to benefit individuals, families, and the community at large.",
+      "The mission also includes preserving and propagating Vedic, Sastra, Purana, and Hindu traditions, as well as instilling Sanatana Dharma ideals, culture, and heritage in future generations."
+    ],
+    "stats": [
+      { "value": "35+", "label": "Years of Service" },
+      { "value": "1000+", "label": "Community Members" },
+      { "value": "100+", "label": "Annual Events" },
+      { "value": "Daily", "label": "Morning & Evening Aarti" }
+    ],
+    "ctaText": "This temple was created by the community for the community. Help us continue our mission by providing time, money, or simply by joining and being with us."
+  },
+  "trustees": [
+    { "name": "Dr. Bikram Paul", "role": "Chairman", "phone": "301-365-0503" },
+    {
+      "name": "Mr. Vippan Chopra",
+      "role": "President & In-charge of Auditorium Services",
+      "phone": "202-369-2946"
+    },
+    {
+      "name": "Dr. Vikram Kushwaha",
+      "role": "Vice President & In-charge of Maintenance",
+      "phone": "301-593-1753"
+    },
+    {
+      "name": "Mr. Ram Agarwal",
+      "role": "Secretary & In-charge of Temple Religious Services",
+      "phone": "301-404-5258"
+    },
+    {
+      "name": "Mr. Shyam Bajpai",
+      "role": "Treasurer",
+      "phone": "301-294-6030"
+    },
+    {
+      "name": "Mrs. Shukla Khanna",
+      "role": "In-charge of Cultural Events",
+      "phone": "301-879-9708"
+    }
+  ],
+  "priests": [
+    {
+      "id": 1,
+      "name": "Pandit Pitamber Dutt Sharma",
+      "role": "Head Priest",
+      "photo_url": "/images/priests/pt_Pitamber_Sharma.jpg",
+      "biography": "Pandit Pitamber Dutt Sharma is the head priest of the Hindu Temple of Metropolitan Washington. He has been serving the DMV Hindu community for many years, performing Vedic rituals and ceremonies with deep knowledge and devotion.",
+      "specialties": "Vedic Rituals, Havan, Puja, Life Ceremonies (Sanskar), Katha & Pravachan"
+    },
+    {
+      "id": 2,
+      "name": "Shri Ram Pandey",
+      "role": "Priest",
+      "photo_url": "/images/priests/pt_shri_ram_pandey.png",
+      "biography": "Shri Ram Pandey is a devoted priest serving at the Hindu Temple of Metropolitan Washington. He performs a wide range of Vedic ceremonies and religious services for the community with dedication and spiritual depth.",
+      "specialties": "Vedic Ceremonies, Pujas, Abhishekam, Wedding & Life Ceremonies"
+    }
+  ],
+  "sandesh": [],
+  "galleryImages": [
+    {
+      "title": "Santoshi Mata",
+      "image_url": "/images/deties/santoshi_mata.jpg",
+      "category": "Deity Photos",
+      "alt_text": "Santoshi Mata idol in yellow attire"
+    },
+    {
+      "title": "Ram Darbar",
+      "image_url": "/images/deties/ram_darbhar.jpg",
+      "category": "Deity Photos",
+      "alt_text": "Ram Darbar with Lord Rama and devotees"
+    },
+    {
+      "title": "Radhe Krishna",
+      "image_url": "/images/deties/radhe_kishan.jpg",
+      "category": "Deity Photos",
+      "alt_text": "Radhe Krishna idols in traditional attire"
+    },
+    {
+      "title": "Ganesh",
+      "image_url": "/images/deties/ganesh.jpg",
+      "category": "Deity Photos",
+      "alt_text": "Lord Ganesh idol with red cloth"
+    },
+    {
+      "title": "Hanuman",
+      "image_url": "/images/deties/hanuman.jpg",
+      "category": "Deity Photos",
+      "alt_text": "Hanuman Ji in traditional dress"
+    },
+    {
+      "title": "Jhule Lal",
+      "image_url": "/images/deties/jhulejule_lal.jpg",
+      "category": "Deity Photos",
+      "alt_text": "Jhule Lal idol"
+    },
+    {
+      "title": "Jagannath",
+      "image_url": "/images/deties/jagannath.jpg",
+      "category": "Deity Photos",
+      "alt_text": "Jagannath temple and deities"
+    },
+    {
+      "title": "Lakshmi Narayan",
+      "image_url": "/images/deties/laxmi_narayan.jpg",
+      "category": "Deity Photos",
+      "alt_text": "Lakshmi and Narayan idols"
+    },
+    {
+      "title": "Durga",
+      "image_url": "/images/deties/durga.jpg",
+      "category": "Deity Photos",
+      "alt_text": "Goddess Durga in divine form"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "date": "2026-02-01",
+      "day_of_week": "Sunday",
+      "time": "4:00 PM – 6:00 PM",
+      "title": "Magha Purnima Satyanarayana Pooja & Katha",
+      "description": "Aartis, Priti Bhoj Served. Republic Day Cultural Program rescheduled to Feb 22"
+    },
+    {
+      "id": "2",
+      "date": "2026-02-03",
+      "day_of_week": "Tuesday",
+      "time": "7:00 PM – 8:00 PM",
+      "title": "Hanuman Ji Prayers & Aartis",
+      "description": ""
+    },
+    {
+      "id": "3",
+      "date": "2026-02-04",
+      "day_of_week": "Wednesday",
+      "time": "",
+      "title": "World Cancer Day",
+      "description": ""
+    },
+    {
+      "id": "4",
+      "date": "2026-02-07",
+      "day_of_week": "Saturday",
+      "time": "5:00 PM – 8:00 PM",
+      "title": "Pooja & Sunderkaand Recitation",
+      "description": "Aartis & Priti Bhoj Served"
+    },
+    {
+      "id": "5",
+      "date": "2026-02-08",
+      "day_of_week": "Sunday",
+      "time": "4:00 PM – 6:00 PM",
+      "title": "Satsang – Yashoda & Shabri Jayanti",
+      "description": "Aartis & Priti Bhoj Served"
+    },
+    {
+      "id": "6",
+      "date": "2026-02-10",
+      "day_of_week": "Tuesday",
+      "time": "7:00 PM – 8:00 PM",
+      "title": "Janaki Jayanti & Hanuman Ji Prayers",
+      "description": ""
+    },
+    {
+      "id": "7",
+      "date": "2026-02-13",
+      "day_of_week": "Friday – Saturday",
+      "time": "",
+      "title": "Kumbh Sankati & Shani Trayodashi / Pradosh",
+      "description": "Continues through Feb 14. Valentine's Day on Feb 14."
+    },
+    {
+      "id": "8",
+      "date": "2026-02-15",
+      "day_of_week": "Sunday",
+      "time": "4:00 PM – 8:00 PM",
+      "title": "Maha Shivratri Celebrations",
+      "description": "4–5 PM: Shiv Ji Pooja & Abhishek. 5–7 PM: Abhishek for Devotees. 5:30 PM: Kirtan, Shiv Chalisa & Katha. 6:30–8 PM: Bhajans & Aartis. Priti Bhoj Served (6–7 PM). Bhajans by devotees – Pre-registration requested by Feb 8"
+    },
+    {
+      "id": "9",
+      "date": "2026-02-17",
+      "day_of_week": "Tuesday",
+      "time": "7:00 PM – 8:00 PM",
+      "title": "Dwapura Yuga Diwas & Hanuman Ji Prayers",
+      "description": ""
+    },
+    {
+      "id": "10",
+      "date": "2026-02-22",
+      "day_of_week": "Sunday",
+      "time": "4:00 PM – 6:30 PM",
+      "title": "Indian Republic Day Cultural Program & Satsang",
+      "description": "Patriotic Songs, Flag Hoisting & Cultural Performances. Dress in Patriotic Colors – Flags Provided. Priti Bhoj Served. Pre-registration required for performers"
+    },
+    {
+      "id": "11",
+      "date": "2026-02-24",
+      "day_of_week": "Tuesday",
+      "time": "7:00 PM – 8:00 PM",
+      "title": "Hanuman Ji Prayers & Aartis",
+      "description": ""
+    },
+    {
+      "id": "12",
+      "date": "2026-02-28",
+      "day_of_week": "Saturday",
+      "time": "",
+      "title": "Narasimha Dwadashi",
+      "description": ""
+    },
+    {
+      "id": "13",
+      "date": "2026-03-01",
+      "day_of_week": "Sunday",
+      "time": "4:00 PM – 6:00 PM",
+      "title": "Satsang & Yoga Lecture",
+      "description": "Guest Speaker: Lalita (Certified Yoga Teacher). Aartis. Priti Bhoj Served."
+    },
+    {
+      "id": "14",
+      "date": "2026-03-03",
+      "day_of_week": "Tuesday",
+      "time": "6:00 PM – 8:00 PM",
+      "title": "Phalguna/Vasant Purnima & Choti Holi – Holika Dahan",
+      "description": "6 PM: Satyanarayana Pooja. 6:30 PM: Katha, Kirtan & Aartis. 7:30 PM: Holika Dahan (Outdoor Patio). Chandra Grahan. Priti Bhoj Served."
+    },
+    {
+      "id": "15",
+      "date": "2026-03-04",
+      "day_of_week": "Wednesday",
+      "time": "",
+      "title": "Holi",
+      "description": "No Ranga Holi at Temple. Phoolon Ki Holi will be celebrated on March 8."
+    },
+    {
+      "id": "16",
+      "date": "2026-03-08",
+      "day_of_week": "Sunday",
+      "time": "4:30 PM – 7:00 PM",
+      "title": "Holi Satsang & Phoolon Ki Holi Celebration",
+      "description": "Cultural Program, Kirtan, Bhajans & Katha. Bring colorful flowers (No dry/wet colors allowed). Daylight Saving Time Begins. International Women's Day. Priti Bhoj Served."
+    },
+    {
+      "id": "17",
+      "date": "2026-03-14",
+      "day_of_week": "Saturday",
+      "time": "5:00 PM – 8:00 PM",
+      "title": "Sunderkaand Paath",
+      "description": "Hanuman Ji Pooja, Recitation & Bhajans, Aarti. Priti Bhoj Served."
+    },
+    {
+      "id": "18",
+      "date": "2026-03-15",
+      "day_of_week": "Sunday",
+      "time": "4:30 PM – 7:00 PM",
+      "title": "Meena Sankranti & Krishna Ekadashi Satsang",
+      "description": "Aartis & Priti Bhoj Served."
+    },
+    {
+      "id": "19",
+      "date": "2026-03-19",
+      "day_of_week": "Thursday",
+      "time": "8:30 AM – 9:00 PM",
+      "title": "Chaitra Navratris Begin (Mar 19–27)",
+      "description": "8:30–10:00 AM: Durga Mata Akhand Jyoti Sthapana. 6:00 PM: Pooja. 7:00–9:00 PM: Mata Chowki. Special Morning & Daily Evening Programs throughout Navratris. Priti Bhoj / Dinner Served Daily."
+    },
+    {
+      "id": "20",
+      "date": "2026-03-20",
+      "day_of_week": "Friday",
+      "time": "6:00 PM – 9:30 PM",
+      "title": "Chaitra Navratri – Day 2",
+      "description": "6:00 PM: Pooja. 7:00–9:30 PM: Mata Chowki."
+    },
+    {
+      "id": "21",
+      "date": "2026-03-21",
+      "day_of_week": "Saturday",
+      "time": "5:00 PM – 12:00 AM",
+      "title": "Chaitra Navratri – Day 3 / Jagran",
+      "description": "5:00 PM: Pooja. 6:00–9:00 PM: Mata Chowki / Jagran with Shri Arjun Ji. 9:00–10:00 PM: Open Singing for Devotees. 10:00 PM–12:00 AM: Tara Rani Katha by Pandit Pitamber Sharma Ji. 12:00 AM: Mata Aarti."
+    },
+    {
+      "id": "22",
+      "date": "2026-03-22",
+      "day_of_week": "Sunday",
+      "time": "4:00 PM – 7:30 PM",
+      "title": "Chaitra Navratri – Day 4",
+      "description": "4:00 PM: Pooja. 5:00–7:30 PM: Mata Chowki."
+    },
+    {
+      "id": "23",
+      "date": "2026-03-23",
+      "day_of_week": "Monday – Wednesday",
+      "time": "6:00 PM – 9:00 PM",
+      "title": "Chaitra Navratri – Days 5–7",
+      "description": "6:00 PM: Pooja. 7:00–9:00 PM: Mata Chowki. (Continues through March 25)"
+    },
+    {
+      "id": "24",
+      "date": "2026-03-26",
+      "day_of_week": "Thursday",
+      "time": "5:30 PM – 9:00 PM",
+      "title": "Durga Ashtami – Chaitra Navratri Day 8",
+      "description": "5:30 PM: Pooja. 6:30–9:00 PM: Mata Chowki."
+    },
+    {
+      "id": "25",
+      "date": "2026-03-27",
+      "day_of_week": "Friday",
+      "time": "11:00 AM – 9:00 PM",
+      "title": "Rama Navami – Chaitra Navratri Day 9",
+      "description": "11:00 AM–12:30 PM: Mid-Day Pooja (Celebration of Lord Ram's Appearance). 6:00 PM: Evening Pooja. 7:00–9:00 PM: Mata Chowki (Durga & Rama Navami Special). Priti Bhoj / Dinner Served."
+    },
+    {
+      "id": "26",
+      "date": "2026-03-29",
+      "day_of_week": "Sunday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Pooja & Satsang – Meena Sankranti & Krishna Ekadashi",
+      "description": "Priti Bhoj Served."
+    },
+    {
+      "id": "27",
+      "date": "2026-03-31",
+      "day_of_week": "Tuesday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Mahavir Jayanti & Hanuman Ji Prayers",
+      "description": ""
+    },
+    {
+      "id": "28",
+      "date": "2026-04-02",
+      "day_of_week": "Thursday",
+      "time": "11:00 AM – 8:00 PM",
+      "title": "Hanuman Jayanti – 2 Special Programs",
+      "description": "Morning Program: 11 AM–Noon (Outdoor Temple) – Jai Shri Ram, Jai Hanuman. Evening Program: 6–8 PM – Purnima Satyanarayana Pooja & Katha. Priti Bhoj Served."
+    },
+    {
+      "id": "29",
+      "date": "2026-04-04",
+      "day_of_week": "Saturday",
+      "time": "4:30 PM – 8:00 PM",
+      "title": "Special Hanuman Jayanti Celebrations – Pooja & Sunderkaand Paath",
+      "description": "Weather permitting – Sankat Mochan Hanuman Ji Pooja and Havan in Outdoor Temple. Followed by program in Prayer Hall: Entire Sunderkaand Paath Recitation, Bhajans, Kirtan, Aarti with Priests & Local Talent. Priti Bhoj Served.",
+      "highlighted": true
+    },
+    {
+      "id": "30",
+      "date": "2026-04-05",
+      "day_of_week": "Sunday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Satsang & Aarti",
+      "description": "Priti Bhoj Served."
+    },
+    {
+      "id": "31",
+      "date": "2026-04-07",
+      "day_of_week": "Tuesday",
+      "time": "7:00 PM – 8:00 PM",
+      "title": "Hanuman Ji Prayers & Aartis",
+      "description": ""
+    },
+    {
+      "id": "32",
+      "date": "2026-04-12",
+      "day_of_week": "Sunday",
+      "time": "12:00 PM – 4:00 PM",
+      "title": "DMV Indian Idol 4 – Grand Musical Competition (Fundraiser)",
+      "description": "Hindu Temple Fundraiser – Grand Musical Competition in the auditorium! Buy Ticket Now! Price includes Appetizers & Dinner.",
+      "highlighted": true
+    },
+    {
+      "id": "33",
+      "date": "2026-04-12",
+      "day_of_week": "Sunday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Satsang & Aarti",
+      "description": "Priti Bhoj Served."
+    },
+    {
+      "id": "34",
+      "date": "2026-04-14",
+      "day_of_week": "Tuesday",
+      "time": "7:00 PM – 8:00 PM",
+      "title": "Baisakhi – Solar New Year & Hanuman Ji Prayers",
+      "description": "Baisakhi / Solar New Year (Apr 14–15). Hanuman Ji Prayers & Aartis."
+    },
+    {
+      "id": "35",
+      "date": "2026-04-19",
+      "day_of_week": "Sunday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Parshuram Jayanti / Akshaya Trithiya / Treta Yug Diwas – Satsang & Aarti",
+      "description": "Priti Bhoj Served.",
+      "highlighted": true
+    },
+    {
+      "id": "36",
+      "date": "2026-04-21",
+      "day_of_week": "Tuesday",
+      "time": "5:00 PM – 8:00 PM",
+      "title": "Adi Shankaracharya & Surdaas Jayanti – Hanuman Ji Prayers & Aartis",
+      "description": "Adi Shankaracharya & Surdaas Jayanti (observed on 4/22). Priti Bhoj Served."
+    },
+    {
+      "id": "37",
+      "date": "2026-04-26",
+      "day_of_week": "Sunday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Earth Day / Dharti Mata Jayanti / Sita Jayanti – Satsang & Aarti",
+      "description": "Sita Navami observed on 4/25/26. Priti Bhoj Served."
+    },
+    {
+      "id": "38",
+      "date": "2026-04-28",
+      "day_of_week": "Tuesday",
+      "time": "7:00 PM – 8:00 PM",
+      "title": "Hanuman Ji Prayers & Aartis",
+      "description": ""
+    },
+    {
+      "id": "39",
+      "date": "2026-04-30",
+      "day_of_week": "Thursday",
+      "time": "",
+      "title": "Narasimha Jayanti",
+      "description": "Appearance of Lord Narasimha – will be celebrated Sunday May 3rd."
+    }
+  ]
+}
