@@ -250,7 +250,128 @@ export default function Layout({ children, currentPageName }) {
       {/* Footer */}
       <footer className="bg-[#2D1B4E] text-white">
         <div className="max-w-7xl mx-auto px-6 py-16">
-          {/* ...rest of your existing footer unchanged... */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
+            {/* Temple Info */}
+            <div>
+              <div className="flex items-center gap-3 mb-4">
+                <img
+                  src="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/699b15bdfc2323e15c43afad/6774a69de_logo.png"
+                  alt="Temple Logo"
+                  className="w-10 h-10 object-contain"
+                />
+                <div>
+                  <div className="font-semibold text-sm">
+                    The Hindu Temple of
+                  </div>
+                  <div className="text-[#E89530] font-bold text-sm">
+                    Metropolitan Washington
+                  </div>
+                </div>
+              </div>
+              <p className="text-white/60 text-sm leading-relaxed">
+                The first Hindu temple in the DMV area. Serving the community
+                since 1988 with Vedic traditions and Sanatana Dharma ideals.
+              </p>
+            </div>
+
+            {/* Quick Links */}
+            <div>
+              <h4 className="font-semibold text-[#E89530] mb-4">Quick Links</h4>
+              <div className="flex flex-col gap-2">
+                <Link
+                  to={createPageUrl("Home")}
+                  className="text-white/60 hover:text-[#E89530] text-sm transition-colors"
+                >
+                  Home
+                </Link>
+                <Link
+                  to={createPageUrl("About")}
+                  className="text-white/60 hover:text-[#E89530] text-sm transition-colors"
+                >
+                  About
+                </Link>
+                <Link
+                  to={createPageUrl("Services")}
+                  className="text-white/60 hover:text-[#E89530] text-sm transition-colors"
+                >
+                  Services
+                </Link>
+                <Link
+                  to={createPageUrl("Events")}
+                  className="text-white/60 hover:text-[#E89530] text-sm transition-colors"
+                >
+                  Events
+                </Link>
+                <Link
+                  to={createPageUrl("Contact")}
+                  className="text-white/60 hover:text-[#E89530] text-sm transition-colors"
+                >
+                  Contact
+                </Link>
+              </div>
+            </div>
+
+            {/* Service Hours */}
+            <div>
+              <h4 className="font-semibold text-[#E89530] mb-4">
+                Service Hours
+              </h4>
+              <div className="text-white/60 text-sm space-y-2">
+                <p>
+                  <span className="text-white/80">Weekdays:</span> 8 AM – 1 PM &
+                  5 PM – 8 PM
+                </p>
+                <p>
+                  <span className="text-white/80">Weekends:</span> 8 AM – 8 PM
+                </p>
+                <p className="pt-2">
+                  <span className="text-white/80">Morning Aarti:</span> 8 AM
+                </p>
+                <p>
+                  <span className="text-white/80">Evening Aarti:</span> 8 PM
+                </p>
+              </div>
+            </div>
+
+            {/* Contact */}
+            <div>
+              <h4 className="font-semibold text-[#E89530] mb-4">Contact Us</h4>
+              <div className="text-white/60 text-sm space-y-3">
+                <p className="flex items-start gap-2">
+                  <MapPin className="w-4 h-4 shrink-0 mt-0.5" />
+                  10001 Riggs Road, Adelphi, MD 20783
+                </p>
+                <p className="flex items-center gap-2">
+                  <Phone className="w-4 h-4 shrink-0" />
+                  (301) 445-2165 | (301) 434-1000
+                </p>
+                <a
+                  href="https://www.facebook.com/TheHinduTempleMD"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2 hover:text-[#E89530] transition-colors"
+                >
+                  <Facebook className="w-4 h-4 shrink-0" />
+                  Follow us on Facebook
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div className="border-t border-white/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
+            <p className="text-white/40 text-sm">
+              © {new Date().getFullYear()} The Hindu Temple of Metropolitan
+              Washington. All rights reserved.
+            </p>
+            <div className="flex gap-4">
+              <Link
+                to={createPageUrl("Donate")}
+                className="text-[#E89530] hover:text-[#F0D68A] text-sm font-medium transition-colors"
+              >
+                Support the Temple
+              </Link>
+            </div>
+          </div>
         </div>
       </footer>
     </div>
