@@ -237,7 +237,7 @@ export default function Layout({ children, currentPageName }) {
                 rel="noopener noreferrer"
                 className="mt-3 block text-center px-4 py-3 rounded-xl bg-gradient-to-r from-[#D4760A] to-[#E89530] text-white font-semibold shadow-lg transition-all"
               >
-                Donate with PayPal
+                Donate
               </a>
             </nav>
           </div>
