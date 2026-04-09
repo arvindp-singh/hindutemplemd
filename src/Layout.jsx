@@ -1,10 +1,7 @@
 import { Link } from "react-router-dom";
 import { createPageUrl } from "@/utils";
 import { useState } from "react";
-
 import contentData from "./content.json";
-// testing
-const { temple } = contentData;
 import {
   Menu,
   X,
@@ -20,6 +17,8 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
+
+const { temple } = contentData;
 
 const NAV_ITEMS = [
   { label: "Home", page: "Home" },
@@ -43,6 +42,17 @@ const NAV_ITEMS = [
   { label: "Contact", page: "Contact" },
   { label: "Sandesh", page: "Sandesh" },
 ];
+
+const FOOTER_LINKS = [
+  { label: "Home", page: "Home" },
+  { label: "About", page: "About" },
+  { label: "Services", page: "Services" },
+  { label: "Events", page: "Events" },
+  { label: "Contact", page: "Contact" },
+  { label: "Membership", page: "Membership" },
+];
+
+const CURRENT_YEAR = new Date().getFullYear();
 
 export default function Layout({ children, currentPageName }) {
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -76,6 +86,7 @@ export default function Layout({ children, currentPageName }) {
       {/* Main Nav */}
       <header className="bg-white/95 backdrop-blur-md sticky top-0 z-50 border-b border-orange-100 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16 md:h-20">
+          {/* Logo */}
           <Link
             to={createPageUrl("Home")}
             className="flex items-center gap-3 shrink-0"
@@ -145,19 +156,16 @@ export default function Layout({ children, currentPageName }) {
             })}
           </nav>
 
-          {/* Right side actions */}
+          {/* Right Side Actions */}
           <div className="flex items-center gap-2 md:gap-3">
-            {/* Desktop donate button */}
             <a
-              href="https://www.paypal.com/donate/?hosted_button_id=EUSFSDDAVT38A"
+              href={temple.paypal}
               target="_blank"
               rel="noopener noreferrer"
               className="hidden sm:inline-block bg-gradient-to-r from-[#D4760A] to-[#E89530] text-white px-5 py-2.5 rounded-full font-semibold shadow-lg hover:shadow-xl transition-all hover:scale-[1.02]"
             >
               Donate with PayPal
             </a>
-
-            {/* Mobile menu toggle */}
             <button
               onClick={() => setMobileOpen(!mobileOpen)}
               className="lg:hidden p-2 text-[#2D1B4E] hover:bg-orange-50 rounded-lg"
@@ -188,9 +196,7 @@ export default function Layout({ children, currentPageName }) {
                       >
                         {item.label}
                         <ChevronDown
-                          className={`w-4 h-4 transition-transform ${
-                            isExpanded ? "rotate-180" : ""
-                          }`}
+                          className={`w-4 h-4 transition-transform ${isExpanded ? "rotate-180" : ""}`}
                         />
                       </button>
                       {isExpanded && (
@@ -229,10 +235,8 @@ export default function Layout({ children, currentPageName }) {
                   </Link>
                 );
               })}
-
-              {/* Mobile donate button */}
               <a
-                href="https://www.paypal.com/donate/?hosted_button_id=EUSFSDDAVT38A"
+                href={temple.paypal}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-3 block text-center px-4 py-3 rounded-xl bg-gradient-to-r from-[#D4760A] to-[#E89530] text-white font-semibold shadow-lg transition-all"
@@ -243,7 +247,6 @@ export default function Layout({ children, currentPageName }) {
           </div>
         )}
       </header>
-
       {/* Page Content */}
       <main className="flex-1">{children}</main>
 
@@ -255,7 +258,7 @@ export default function Layout({ children, currentPageName }) {
             <div>
               <div className="flex items-center gap-3 mb-4">
                 <img
-                  src="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/699b15bdfc2323e15c43afad/6774a69de_logo.png"
+                  src={temple.logo}
                   alt="Temple Logo"
                   className="w-10 h-10 object-contain"
                 />
@@ -270,7 +273,8 @@ export default function Layout({ children, currentPageName }) {
               </div>
               <p className="text-white/60 text-sm leading-relaxed">
                 The first Hindu temple in the DMV area. Serving the community
-                since 1988 with Vedic traditions and Sanatana Dharma ideals.
+                since {temple.founded} with Vedic traditions and Sanatana Dharma
+                ideals.
               </p>
             </div>
 
@@ -278,36 +282,15 @@ export default function Layout({ children, currentPageName }) {
             <div>
               <h4 className="font-semibold text-[#E89530] mb-4">Quick Links</h4>
               <div className="flex flex-col gap-2">
-                <Link
-                  to={createPageUrl("Home")}
-                  className="text-white/60 hover:text-[#E89530] text-sm transition-colors"
-                >
-                  Home
-                </Link>
-                <Link
-                  to={createPageUrl("About")}
-                  className="text-white/60 hover:text-[#E89530] text-sm transition-colors"
-                >
-                  About
-                </Link>
-                <Link
-                  to={createPageUrl("Services")}
-                  className="text-white/60 hover:text-[#E89530] text-sm transition-colors"
-                >
-                  Services
-                </Link>
-                <Link
-                  to={createPageUrl("Events")}
-                  className="text-white/60 hover:text-[#E89530] text-sm transition-colors"
-                >
-                  Events
-                </Link>
-                <Link
-                  to={createPageUrl("Contact")}
-                  className="text-white/60 hover:text-[#E89530] text-sm transition-colors"
-                >
-                  Contact
-                </Link>
+                {FOOTER_LINKS.map(({ label, page }) => (
+                  <Link
+                    key={page}
+                    to={createPageUrl(page)}
+                    className="text-white/60 hover:text-[#E89530] text-sm transition-colors"
+                  >
+                    {label}
+                  </Link>
+                ))}
               </div>
             </div>
 
@@ -318,17 +301,20 @@ export default function Layout({ children, currentPageName }) {
               </h4>
               <div className="text-white/60 text-sm space-y-2">
                 <p>
-                  <span className="text-white/80">Weekdays:</span> 8 AM – 1 PM &
-                  5 PM – 8 PM
+                  <span className="text-white/80">Weekdays:</span>{" "}
+                  {temple.hours.weekdays}
                 </p>
                 <p>
-                  <span className="text-white/80">Weekends:</span> 8 AM – 8 PM
+                  <span className="text-white/80">Weekends:</span>{" "}
+                  {temple.hours.weekends}
                 </p>
                 <p className="pt-2">
-                  <span className="text-white/80">Morning Aarti:</span> 8 AM
+                  <span className="text-white/80">Morning Aarti:</span>{" "}
+                  {temple.hours.morningAarti}
                 </p>
                 <p>
-                  <span className="text-white/80">Evening Aarti:</span> 8 PM
+                  <span className="text-white/80">Evening Aarti:</span>{" "}
+                  {temple.hours.eveningAarti}
                 </p>
               </div>
             </div>
@@ -337,16 +323,21 @@ export default function Layout({ children, currentPageName }) {
             <div>
               <h4 className="font-semibold text-[#E89530] mb-4">Contact Us</h4>
               <div className="text-white/60 text-sm space-y-3">
-                <p className="flex items-start gap-2">
+                <a
+                  href={temple.mapsDirections}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-start gap-2 hover:text-[#E89530] transition-colors"
+                >
                   <MapPin className="w-4 h-4 shrink-0 mt-0.5" />
-                  10001 Riggs Road, Adelphi, MD 20783
-                </p>
+                  {temple.address}
+                </a>
                 <p className="flex items-center gap-2">
                   <Phone className="w-4 h-4 shrink-0" />
-                  (301) 445-2165 | (301) 434-1000
+                  {temple.phones.join(" | ")}
                 </p>
                 <a
-                  href="https://www.facebook.com/TheHinduTempleMD"
+                  href={temple.facebook}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 hover:text-[#E89530] transition-colors"
@@ -358,19 +349,20 @@ export default function Layout({ children, currentPageName }) {
             </div>
           </div>
 
+          {/* Footer Bottom */}
           <div className="border-t border-white/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-white/40 text-sm">
-              © {new Date().getFullYear()} The Hindu Temple of Metropolitan
-              Washington. All rights reserved.
+              © {CURRENT_YEAR} The Hindu Temple of Metropolitan Washington. All
+              rights reserved.
             </p>
-            <div className="flex gap-4">
-              <Link
-                to={createPageUrl("Donate")}
-                className="text-[#E89530] hover:text-[#F0D68A] text-sm font-medium transition-colors"
-              >
-                Support the Temple
-              </Link>
-            </div>
+            <a
+              href={temple.paypal}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[#E89530] hover:text-[#F0D68A] text-sm font-medium transition-colors"
+            >
+              Support the Temple
+            </a>
           </div>
         </div>
       </footer>
