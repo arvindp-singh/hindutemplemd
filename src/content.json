@@ -368,319 +368,144 @@
   ],
   "events": [
     {
-      "id": "1",
-      "date": "2026-02-01",
-      "day_of_week": "Sunday",
-      "time": "4:00 PM – 6:00 PM",
-      "title": "Magha Purnima Satyanarayana Pooja & Katha",
-      "description": "Aartis, Priti Bhoj Served. Republic Day Cultural Program rescheduled to Feb 22"
-    },
-    {
-      "id": "2",
-      "date": "2026-02-03",
-      "day_of_week": "Tuesday",
-      "time": "7:00 PM – 8:00 PM",
-      "title": "Hanuman Ji Prayers & Aartis",
-      "description": ""
-    },
-    {
-      "id": "3",
-      "date": "2026-02-04",
-      "day_of_week": "Wednesday",
-      "time": "",
-      "title": "World Cancer Day",
-      "description": ""
-    },
-    {
-      "id": "4",
-      "date": "2026-02-07",
-      "day_of_week": "Saturday",
-      "time": "5:00 PM – 8:00 PM",
-      "title": "Pooja & Sunderkaand Recitation",
-      "description": "Aartis & Priti Bhoj Served"
-    },
-    {
-      "id": "5",
-      "date": "2026-02-08",
-      "day_of_week": "Sunday",
-      "time": "4:00 PM – 6:00 PM",
-      "title": "Satsang – Yashoda & Shabri Jayanti",
-      "description": "Aartis & Priti Bhoj Served"
-    },
-    {
-      "id": "6",
-      "date": "2026-02-10",
-      "day_of_week": "Tuesday",
-      "time": "7:00 PM – 8:00 PM",
-      "title": "Janaki Jayanti & Hanuman Ji Prayers",
-      "description": ""
-    },
-    {
-      "id": "7",
-      "date": "2026-02-13",
-      "day_of_week": "Friday – Saturday",
-      "time": "",
-      "title": "Kumbh Sankati & Shani Trayodashi / Pradosh",
-      "description": "Continues through Feb 14. Valentine's Day on Feb 14."
-    },
-    {
-      "id": "8",
-      "date": "2026-02-15",
-      "day_of_week": "Sunday",
-      "time": "4:00 PM – 8:00 PM",
-      "title": "Maha Shivratri Celebrations",
-      "description": "4–5 PM: Shiv Ji Pooja & Abhishek. 5–7 PM: Abhishek for Devotees. 5:30 PM: Kirtan, Shiv Chalisa & Katha. 6:30–8 PM: Bhajans & Aartis. Priti Bhoj Served (6–7 PM). Bhajans by devotees – Pre-registration requested by Feb 8"
-    },
-    {
-      "id": "9",
-      "date": "2026-02-17",
-      "day_of_week": "Tuesday",
-      "time": "7:00 PM – 8:00 PM",
-      "title": "Dwapura Yuga Diwas & Hanuman Ji Prayers",
-      "description": ""
-    },
-    {
-      "id": "10",
-      "date": "2026-02-22",
-      "day_of_week": "Sunday",
-      "time": "4:00 PM – 6:30 PM",
-      "title": "Indian Republic Day Cultural Program & Satsang",
-      "description": "Patriotic Songs, Flag Hoisting & Cultural Performances. Dress in Patriotic Colors – Flags Provided. Priti Bhoj Served. Pre-registration required for performers"
-    },
-    {
-      "id": "11",
-      "date": "2026-02-24",
-      "day_of_week": "Tuesday",
-      "time": "7:00 PM – 8:00 PM",
-      "title": "Hanuman Ji Prayers & Aartis",
-      "description": ""
-    },
-    {
-      "id": "12",
-      "date": "2026-02-28",
-      "day_of_week": "Saturday",
-      "time": "",
-      "title": "Narasimha Dwadashi",
-      "description": ""
-    },
-    {
-      "id": "13",
-      "date": "2026-03-01",
-      "day_of_week": "Sunday",
-      "time": "4:00 PM – 6:00 PM",
-      "title": "Satsang & Yoga Lecture",
-      "description": "Guest Speaker: Lalita (Certified Yoga Teacher). Aartis. Priti Bhoj Served."
-    },
-    {
-      "id": "14",
-      "date": "2026-03-03",
-      "day_of_week": "Tuesday",
+      "id": "40",
+      "date": "2026-05-01",
+      "day_of_week": "Friday",
       "time": "6:00 PM – 8:00 PM",
-      "title": "Phalguna/Vasant Purnima & Choti Holi – Holika Dahan",
-      "description": "6 PM: Satyanarayana Pooja. 6:30 PM: Katha, Kirtan & Aartis. 7:30 PM: Holika Dahan (Outdoor Patio). Chandra Grahan. Priti Bhoj Served."
-    },
-    {
-      "id": "15",
-      "date": "2026-03-04",
-      "day_of_week": "Wednesday",
-      "time": "",
-      "title": "Holi",
-      "description": "No Ranga Holi at Temple. Phoolon Ki Holi will be celebrated on March 8."
-    },
-    {
-      "id": "16",
-      "date": "2026-03-08",
-      "day_of_week": "Sunday",
-      "time": "4:30 PM – 7:00 PM",
-      "title": "Holi Satsang & Phoolon Ki Holi Celebration",
-      "description": "Cultural Program, Kirtan, Bhajans & Katha. Bring colorful flowers (No dry/wet colors allowed). Daylight Saving Time Begins. International Women's Day. Priti Bhoj Served."
-    },
-    {
-      "id": "17",
-      "date": "2026-03-14",
-      "day_of_week": "Saturday",
-      "time": "5:00 PM – 8:00 PM",
-      "title": "Sunderkaand Paath",
-      "description": "Hanuman Ji Pooja, Recitation & Bhajans, Aarti. Priti Bhoj Served."
-    },
-    {
-      "id": "18",
-      "date": "2026-03-15",
-      "day_of_week": "Sunday",
-      "time": "4:30 PM – 7:00 PM",
-      "title": "Meena Sankranti & Krishna Ekadashi Satsang",
-      "description": "Aartis & Priti Bhoj Served."
-    },
-    {
-      "id": "19",
-      "date": "2026-03-19",
-      "day_of_week": "Thursday",
-      "time": "8:30 AM – 9:00 PM",
-      "title": "Chaitra Navratris Begin (Mar 19–27)",
-      "description": "8:30–10:00 AM: Durga Mata Akhand Jyoti Sthapana. 6:00 PM: Pooja. 7:00–9:00 PM: Mata Chowki. Special Morning & Daily Evening Programs throughout Navratris. Priti Bhoj / Dinner Served Daily."
-    },
-    {
-      "id": "20",
-      "date": "2026-03-20",
-      "day_of_week": "Friday",
-      "time": "6:00 PM – 9:30 PM",
-      "title": "Chaitra Navratri – Day 2",
-      "description": "6:00 PM: Pooja. 7:00–9:30 PM: Mata Chowki."
-    },
-    {
-      "id": "21",
-      "date": "2026-03-21",
-      "day_of_week": "Saturday",
-      "time": "5:00 PM – 12:00 AM",
-      "title": "Chaitra Navratri – Day 3 / Jagran",
-      "description": "5:00 PM: Pooja. 6:00–9:00 PM: Mata Chowki / Jagran with Shri Arjun Ji. 9:00–10:00 PM: Open Singing for Devotees. 10:00 PM–12:00 AM: Tara Rani Katha by Pandit Pitamber Sharma Ji. 12:00 AM: Mata Aarti."
-    },
-    {
-      "id": "22",
-      "date": "2026-03-22",
-      "day_of_week": "Sunday",
-      "time": "4:00 PM – 7:30 PM",
-      "title": "Chaitra Navratri – Day 4",
-      "description": "4:00 PM: Pooja. 5:00–7:30 PM: Mata Chowki."
-    },
-    {
-      "id": "23",
-      "date": "2026-03-23",
-      "day_of_week": "Monday – Wednesday",
-      "time": "6:00 PM – 9:00 PM",
-      "title": "Chaitra Navratri – Days 5–7",
-      "description": "6:00 PM: Pooja. 7:00–9:00 PM: Mata Chowki. (Continues through March 25)"
-    },
-    {
-      "id": "24",
-      "date": "2026-03-26",
-      "day_of_week": "Thursday",
-      "time": "5:30 PM – 9:00 PM",
-      "title": "Durga Ashtami – Chaitra Navratri Day 8",
-      "description": "5:30 PM: Pooja. 6:30–9:00 PM: Mata Chowki."
-    },
-    {
-      "id": "25",
-      "date": "2026-03-27",
-      "day_of_week": "Friday",
-      "time": "11:00 AM – 9:00 PM",
-      "title": "Rama Navami – Chaitra Navratri Day 9",
-      "description": "11:00 AM–12:30 PM: Mid-Day Pooja (Celebration of Lord Ram's Appearance). 6:00 PM: Evening Pooja. 7:00–9:00 PM: Mata Chowki (Durga & Rama Navami Special). Priti Bhoj / Dinner Served."
-    },
-    {
-      "id": "26",
-      "date": "2026-03-29",
-      "day_of_week": "Sunday",
-      "time": "5:00 PM – 7:00 PM",
-      "title": "Pooja & Satsang – Meena Sankranti & Krishna Ekadashi",
+      "title": "Budha Purnima / Vaishakha Purnima – Purnima Satyanarayana Pooja & Katha",
       "description": "Priti Bhoj Served."
     },
     {
-      "id": "27",
-      "date": "2026-03-31",
+      "id": "41",
+      "date": "2026-05-03",
+      "day_of_week": "Sunday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Narasimha & Narada Jayanti Celebrations – Satsang",
+      "description": "Narasimha Jayanti (observed 4/30/2026); Narada Jayanti (observed 5/2/2026). Priti Bhoj Served following Aartis. Sponsors Welcome!",
+      "highlighted": true
+    },
+    {
+      "id": "42",
+      "date": "2026-05-05",
       "day_of_week": "Tuesday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Mahavir Jayanti & Hanuman Ji Prayers",
+      "title": "Hanuman Ji Pooja, Prayers & Aartis – 1st Bada Mangal",
       "description": ""
     },
     {
-      "id": "28",
-      "date": "2026-04-02",
-      "day_of_week": "Thursday",
-      "time": "11:00 AM – 8:00 PM",
-      "title": "Hanuman Jayanti – 2 Special Programs",
-      "description": "Morning Program: 11 AM–Noon (Outdoor Temple) – Jai Shri Ram, Jai Hanuman. Evening Program: 6–8 PM – Purnima Satyanarayana Pooja & Katha. Priti Bhoj Served."
-    },
-    {
-      "id": "29",
-      "date": "2026-04-04",
+      "id": "43",
+      "date": "2026-05-09",
       "day_of_week": "Saturday",
-      "time": "4:30 PM – 8:00 PM",
-      "title": "Special Hanuman Jayanti Celebrations – Pooja & Sunderkaand Paath",
-      "description": "Weather permitting – Sankat Mochan Hanuman Ji Pooja and Havan in Outdoor Temple. Followed by program in Prayer Hall: Entire Sunderkaand Paath Recitation, Bhajans, Kirtan, Aarti with Priests & Local Talent. Priti Bhoj Served.",
+      "time": "4:00 PM – 8:00 PM",
+      "title": "Special Saturday Prayer Service – Hanuman Ji Pooja & Sunderkaand Paath",
+      "description": "4:00 PM: Family Pooja. 5:00–7:00 PM: Entire Sunderkaand Paath Recitation & Hanuman Chalisa. 7:00 PM: Kirtan & Bhajans. 8:00 PM: Aartis & Blessing. With Priests & Local Talent. Priti Bhoj Served following Aarti.",
       "highlighted": true
     },
     {
-      "id": "30",
-      "date": "2026-04-05",
+      "id": "44",
+      "date": "2026-05-10",
+      "day_of_week": "Sunday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Mother's Day Celebrations – Durga Mata Pooja & Devotional Bhajans",
+      "description": "Sandhya, Aartis. Priti Bhoj Served. Singers Invited – pre-register with name & bhajan title by 5/7/2026. Email: vijay11313@yahoo.com & skkhanna15@yahoo.com.",
+      "highlighted": true
+    },
+    {
+      "id": "45",
+      "date": "2026-05-12",
+      "day_of_week": "Tuesday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Hanuman Ji Pooja, Prayers & Aartis – 2nd Bada Mangal",
+      "description": ""
+    },
+    {
+      "id": "46",
+      "date": "2026-05-16",
+      "day_of_week": "Saturday",
+      "time": "6:00 PM – 8:00 PM",
+      "title": "Shani Jayanti & Vat Savitri Vrat – Pooja & Chalisa",
+      "description": "Katha, Priti Bhoj Served following Aartis."
+    },
+    {
+      "id": "47",
+      "date": "2026-05-17",
       "day_of_week": "Sunday",
       "time": "5:00 PM – 7:00 PM",
       "title": "Satsang & Aarti",
       "description": "Priti Bhoj Served."
     },
     {
-      "id": "31",
-      "date": "2026-04-07",
+      "id": "48",
+      "date": "2026-05-19",
       "day_of_week": "Tuesday",
-      "time": "7:00 PM – 8:00 PM",
-      "title": "Hanuman Ji Prayers & Aartis",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Hanuman Ji Pooja, Prayers & Aartis – 3rd Bada Mangal",
       "description": ""
     },
     {
-      "id": "32",
-      "date": "2026-04-12",
+      "id": "49",
+      "date": "2026-05-24",
       "day_of_week": "Sunday",
-      "time": "12:00 PM – 4:00 PM",
-      "title": "DMV Indian Idol 4 – Grand Musical Competition (Fundraiser)",
-      "description": "Hindu Temple Fundraiser – Grand Musical Competition in the auditorium! Buy Ticket Now! Price includes Appetizers & Dinner.",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Shiv Ji Katha – Day 1 (Guest Speaker: Swami Ram Govind Das Ji from India)",
+      "description": "Daily Katha: Sunday 5/24 5–7 PM. Monday–Saturday 5/25–5/30, 6:30–8 PM. Daily Priti Bhoj/Dinner Served following Aartis.",
       "highlighted": true
     },
     {
-      "id": "33",
-      "date": "2026-04-12",
-      "day_of_week": "Sunday",
-      "time": "5:00 PM – 7:00 PM",
-      "title": "Satsang & Aarti",
-      "description": "Priti Bhoj Served."
+      "id": "50",
+      "date": "2026-05-25",
+      "day_of_week": "Monday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Ganga Dussehra – followed by Shiv Ji Katha",
+      "description": "Daily Priti Bhoj/Dinner Served following Aartis."
     },
     {
-      "id": "34",
-      "date": "2026-04-14",
+      "id": "51",
+      "date": "2026-05-26",
       "day_of_week": "Tuesday",
-      "time": "7:00 PM – 8:00 PM",
-      "title": "Baisakhi – Solar New Year & Hanuman Ji Prayers",
-      "description": "Baisakhi / Solar New Year (Apr 14–15). Hanuman Ji Prayers & Aartis."
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Hanuman Ji Prayers – 4th Bada Mangal – followed by Shiv Ji Katha",
+      "description": "Daily Priti Bhoj/Dinner Served following Aartis."
     },
     {
-      "id": "35",
-      "date": "2026-04-19",
-      "day_of_week": "Sunday",
-      "time": "5:00 PM – 7:00 PM",
-      "title": "Parshuram Jayanti / Akshaya Trithiya / Treta Yug Diwas – Satsang & Aarti",
-      "description": "Priti Bhoj Served.",
-      "highlighted": true
+      "id": "52",
+      "date": "2026-05-27",
+      "day_of_week": "Wednesday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Purushottami Ekadashi – followed by Shiv Ji Katha",
+      "description": "Daily Priti Bhoj/Dinner Served following Aartis."
     },
     {
-      "id": "36",
-      "date": "2026-04-21",
-      "day_of_week": "Tuesday",
-      "time": "5:00 PM – 8:00 PM",
-      "title": "Adi Shankaracharya & Surdaas Jayanti – Hanuman Ji Prayers & Aartis",
-      "description": "Adi Shankaracharya & Surdaas Jayanti (observed on 4/22). Priti Bhoj Served."
-    },
-    {
-      "id": "37",
-      "date": "2026-04-26",
-      "day_of_week": "Sunday",
-      "time": "5:00 PM – 7:00 PM",
-      "title": "Earth Day / Dharti Mata Jayanti / Sita Jayanti – Satsang & Aarti",
-      "description": "Sita Navami observed on 4/25/26. Priti Bhoj Served."
-    },
-    {
-      "id": "38",
-      "date": "2026-04-28",
-      "day_of_week": "Tuesday",
-      "time": "7:00 PM – 8:00 PM",
-      "title": "Hanuman Ji Prayers & Aartis",
-      "description": ""
-    },
-    {
-      "id": "39",
-      "date": "2026-04-30",
+      "id": "53",
+      "date": "2026-05-28",
       "day_of_week": "Thursday",
-      "time": "",
-      "title": "Narasimha Jayanti",
-      "description": "Appearance of Lord Narasimha – will be celebrated Sunday May 3rd."
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Shiv Ji Katha – Day 5",
+      "description": "Daily Priti Bhoj/Dinner Served following Aartis."
+    },
+    {
+      "id": "54",
+      "date": "2026-05-29",
+      "day_of_week": "Friday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Shiv Ji Katha – Day 6",
+      "description": "Daily Priti Bhoj/Dinner Served following Aartis."
+    },
+    {
+      "id": "55",
+      "date": "2026-05-30",
+      "day_of_week": "Saturday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Shiv Ji Katha – Final Day (Day 7)",
+      "description": "Daily Priti Bhoj/Dinner Served following Aartis."
+    },
+    {
+      "id": "56",
+      "date": "2026-05-31",
+      "day_of_week": "Sunday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Jayeshtha Adhik/Shukla Purnima – Purnima Satyanarayana Pooja & Katha",
+      "description": "Priti Bhoj Served."
     }
   ]
 }
