@@ -1,0 +1,23 @@
+services:
+  hindutemplemd:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hindutemplemd-app
+    restart: unless-stopped
+    ports:
+      - "3009:80"
+    environment:
+      - NODE_ENV=production
+    networks:
+      - web
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://127.0.0.1:80/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  web:
+    external: true
