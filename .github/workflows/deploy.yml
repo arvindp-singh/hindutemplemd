@@ -22,8 +22,10 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: ${{ secrets.SSH_PORT }}
           script: |
+            set -e
             cd /root/projects/hindutemplemd.org
-            git pull origin main
-            docker-compose down
-            docker-compose up --build -d
+            git fetch origin
+            git reset --hard origin/main
+            docker compose down
+            docker compose up --build -d
             echo "Deployment complete: $(date)"
