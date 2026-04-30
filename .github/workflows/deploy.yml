@@ -14,7 +14,18 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v4
 
-      - name: Deploy to VPS via SSH
+      - name: Copy updated source to VPS via SCP
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: ${{ secrets.SSH_PORT }}
+          source: "src/,public/,index.html,components.json,eslint.config.js,package.json,package-lock.json,vite.config.*,tsconfig*"
+          target: "/root/projects/hindutemplemd.org"
+          rm: false
+
+      - name: Rebuild Docker container on VPS
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.SSH_HOST }}
@@ -24,8 +35,6 @@ jobs:
           script: |
             set -e
             cd /root/projects/hindutemplemd.org
-            git fetch origin
-            git reset --hard origin/main
             docker compose down
             docker compose up --build -d
             echo "Deployment complete: $(date)"
