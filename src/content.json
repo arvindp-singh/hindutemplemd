@@ -44,20 +44,20 @@
     ],
     "financialStatements2026": [
       {
-        "month": "January 2026",
+        "month": "January",
         "url": "/statements/01_2026_Hindu_Temple_Financial_Statement.pdf"
       },
       {
-        "month": "February 2026",
-        "url": "/statements/02_2025_Hindu_Temple_Financial_Statement.pdf"
+        "month": "February",
+        "url": "/statements/02_2026_Hindu_Temple_Financial_Statement.pdf"
       },
       {
-        "month": "March 2026",
-        "url": "/statements/03_2025_Hindu_Temple_Financial_Statement.pdf"
+        "month": "March",
+        "url": "/statements/03_2026_Hindu_Temple_Financial_Statement.pdf"
       },
       {
-        "month": "April 2026",
-        "url": "/statements/04_2025_Hindu_Temple_Financial_Statement.pdf"
+        "month": "April",
+        "url": "/statements/04_2026_Hindu_Temple_Financial_Statement.pdf"
       }
     ]
   },
