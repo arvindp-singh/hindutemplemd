@@ -454,21 +454,13 @@
       "title": "Hanuman Ji Pooja, Prayers & Aartis – 3rd Bada Mangal",
       "description": ""
     },
-    {
-      "id": "49",
-      "date": "2026-05-24",
-      "day_of_week": "Sunday",
-      "time": "5:00 PM – 7:00 PM",
-      "title": "Shiv Ji Katha – Day 1 (Guest Speaker: Swami Ram Govind Das Ji from India)",
-      "description": "Daily Katha: Sunday 5/24 5–7 PM. Monday–Saturday 5/25–5/30, 6:30–8 PM. Daily Priti Bhoj/Dinner Served following Aartis.",
-      "highlighted": true
-    },
+
     {
       "id": "50",
       "date": "2026-05-25",
       "day_of_week": "Monday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Ganga Dussehra – followed by Shiv Ji Katha",
+      "title": "Ganga Dussehra ",
       "description": "Daily Priti Bhoj/Dinner Served following Aartis."
     },
     {
@@ -476,7 +468,7 @@
       "date": "2026-05-26",
       "day_of_week": "Tuesday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Hanuman Ji Prayers – 4th Bada Mangal – followed by Shiv Ji Katha",
+      "title": "Hanuman Ji Prayers – 4th Bada Mangal",
       "description": "Daily Priti Bhoj/Dinner Served following Aartis."
     },
     {
@@ -484,33 +476,10 @@
       "date": "2026-05-27",
       "day_of_week": "Wednesday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Purushottami Ekadashi – followed by Shiv Ji Katha",
+      "title": "Purushottami Ekadashi",
       "description": "Daily Priti Bhoj/Dinner Served following Aartis."
     },
-    {
-      "id": "53",
-      "date": "2026-05-28",
-      "day_of_week": "Thursday",
-      "time": "6:30 PM – 8:00 PM",
-      "title": "Shiv Ji Katha – Day 5",
-      "description": "Daily Priti Bhoj/Dinner Served following Aartis."
-    },
-    {
-      "id": "54",
-      "date": "2026-05-29",
-      "day_of_week": "Friday",
-      "time": "6:30 PM – 8:00 PM",
-      "title": "Shiv Ji Katha – Day 6",
-      "description": "Daily Priti Bhoj/Dinner Served following Aartis."
-    },
-    {
-      "id": "55",
-      "date": "2026-05-30",
-      "day_of_week": "Saturday",
-      "time": "6:30 PM – 8:00 PM",
-      "title": "Shiv Ji Katha – Final Day (Day 7)",
-      "description": "Daily Priti Bhoj/Dinner Served following Aartis."
-    },
+
     {
       "id": "56",
       "date": "2026-05-31",
