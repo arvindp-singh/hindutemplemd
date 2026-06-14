@@ -372,128 +372,170 @@
   ],
   "events": [
     {
-      "id": "39",
-      "date": "2026-04-30",
+      "id": "57",
+      "date": "2026-06-02",
+      "day_of_week": "Tuesday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Bada Mangal #5 – Hanuman Ji Pooja & Prayers",
+      "description": "Priti Bhoj Served."
+    },
+    {
+      "id": "58",
+      "date": "2026-06-04",
       "day_of_week": "Thursday",
       "time": "",
-      "title": "Narasimha Jayanti",
-      "description": "Appearance of Lord Narasimha – will be celebrated Sunday May 3rd."
+      "title": "AMMA KARUNAMAYI Special 4-Day Event",
+      "description": "June 4–7, 2026. Special spiritual program in the Auditorium. See temple flyer and Facebook Page: TheHinduTempleMD for details.",
+      "highlighted": true
     },
     {
-      "id": "40",
-      "date": "2026-05-01",
+      "id": "59",
+      "date": "2026-06-05",
       "day_of_week": "Friday",
-      "time": "6:00 PM – 8:00 PM",
-      "title": "Budha Purnima / Vaishakha Purnima – Purnima Satyanarayana Pooja & Katha",
-      "description": "Priti Bhoj Served."
-    },
-    {
-      "id": "41",
-      "date": "2026-05-03",
-      "day_of_week": "Sunday",
-      "time": "5:00 PM – 7:00 PM",
-      "title": "Narasimha & Narada Jayanti Celebrations – Satsang",
-      "description": "Narasimha Jayanti (observed 4/30/2026); Narada Jayanti (observed 5/2/2026). Priti Bhoj Served following Aartis. Sponsors Welcome!",
-      "highlighted": true
-    },
-    {
-      "id": "42",
-      "date": "2026-05-05",
-      "day_of_week": "Tuesday",
-      "time": "6:30 PM – 8:00 PM",
-      "title": "Hanuman Ji Pooja, Prayers & Aartis – 1st Bada Mangal",
+      "time": "",
+      "title": "World Environment Day",
       "description": ""
     },
     {
-      "id": "43",
-      "date": "2026-05-09",
+      "id": "60",
+      "date": "2026-06-07",
+      "day_of_week": "Sunday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Sunday Satsang – Adhika Bhanu Saptami",
+      "description": "Pooja, Bhajans, Katha, Aartis. Priti Bhoj Served."
+    },
+    {
+      "id": "61",
+      "date": "2026-06-09",
+      "day_of_week": "Tuesday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Bada Mangal #6 & Jyeshtha Shukla Purnima",
+      "description": "Hanuman Ji Pooja, Satyanarayana Pooja & Katha, Aartis. Priti Bhoj Served."
+    },
+    {
+      "id": "62",
+      "date": "2026-06-13",
       "day_of_week": "Saturday",
-      "time": "4:00 PM – 8:00 PM",
-      "title": "Special Saturday Prayer Service – Hanuman Ji Pooja & Sunderkaand Paath",
-      "description": "4:00 PM: Family Pooja. 5:00–7:00 PM: Entire Sunderkaand Paath Recitation & Hanuman Chalisa. 7:00 PM: Kirtan & Bhajans. 8:00 PM: Aartis & Blessing. With Priests & Local Talent. Priti Bhoj Served following Aarti.",
+      "time": "5:00 PM – 8:00 PM",
+      "title": "Sunderkaand Paath & Adhik Maas Shivratri",
+      "description": "Hanuman Ji & Shiv Ji Pooja, Sunderkaand Recitation, Kirtan, Bhajans, Aartis. Priti Bhoj Served.",
       "highlighted": true
     },
     {
-      "id": "44",
-      "date": "2026-05-10",
+      "id": "63",
+      "date": "2026-06-14",
       "day_of_week": "Sunday",
       "time": "5:00 PM – 7:00 PM",
-      "title": "Mother's Day Celebrations – Durga Mata Pooja & Devotional Bhajans",
-      "description": "Sandhya, Aartis. Priti Bhoj Served. Singers Invited – pre-register with name & bhajan title by 5/7/2026. Email: vijay11313@yahoo.com & skkhanna15@yahoo.com.",
+      "title": "Bhagwat Katha by Akhil Ji Maharaj (Day 1)",
+      "description": "Special 8-Day Bhagwat Katha program (June 14–21). Sponsors Welcome. Daily Priti Bhoj/Dinner Served following Aarti.",
       "highlighted": true
     },
     {
-      "id": "45",
-      "date": "2026-05-12",
-      "day_of_week": "Tuesday",
-      "time": "6:30 PM – 8:00 PM",
-      "title": "Hanuman Ji Pooja, Prayers & Aartis – 2nd Bada Mangal",
-      "description": ""
-    },
-    {
-      "id": "46",
-      "date": "2026-05-16",
-      "day_of_week": "Saturday",
-      "time": "6:00 PM – 8:00 PM",
-      "title": "Shani Jayanti & Vat Savitri Vrat – Pooja & Chalisa",
-      "description": "Katha, Priti Bhoj Served following Aartis."
-    },
-    {
-      "id": "47",
-      "date": "2026-05-17",
-      "day_of_week": "Sunday",
-      "time": "5:00 PM – 7:00 PM",
-      "title": "Satsang & Aarti",
-      "description": "Priti Bhoj Served."
-    },
-    {
-      "id": "48",
-      "date": "2026-05-19",
-      "day_of_week": "Tuesday",
-      "time": "6:30 PM – 8:00 PM",
-      "title": "Hanuman Ji Pooja, Prayers & Aartis – 3rd Bada Mangal",
-      "description": ""
-    },
-    {
-      "id": "49",
-      "date": "2026-05-24",
-      "day_of_week": "Sunday",
-      "time": "5 PM – 7:00 PM",
-      "title": "Sunday Satsang",
-      "description": "Daily Priti Bhoj/Dinner Served following Aartis."
-    },
-    {
-      "id": "50",
-      "date": "2026-05-25",
+      "id": "64",
+      "date": "2026-06-15",
       "day_of_week": "Monday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Ganga Dussehra ",
-      "description": "Daily Priti Bhoj/Dinner Served following Aartis."
+      "title": "Bhagwat Katha by Akhil Ji Maharaj (Day 2)",
+      "description": "Daily Priti Bhoj/Dinner Served following Aarti."
     },
     {
-      "id": "51",
-      "date": "2026-05-26",
+      "id": "65",
+      "date": "2026-06-16",
       "day_of_week": "Tuesday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Hanuman Ji Prayers – 4th Bada Mangal",
-      "description": "Daily Priti Bhoj/Dinner Served following Aartis."
+      "title": "Bada Mangal #7 & Bhagwat Katha",
+      "description": "Hanuman Chalisa followed by Bhagwat Katha at 7:00 PM. Daily Priti Bhoj/Dinner Served."
     },
     {
-      "id": "52",
-      "date": "2026-05-27",
+      "id": "66",
+      "date": "2026-06-17",
       "day_of_week": "Wednesday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Purushottami Ekadashi",
-      "description": "Daily Priti Bhoj/Dinner Served following Aartis."
+      "title": "Bhagwat Katha by Akhil Ji Maharaj (Day 4)",
+      "description": "Daily Priti Bhoj/Dinner Served following Aarti."
     },
-
     {
-      "id": "56",
-      "date": "2026-05-31",
+      "id": "67",
+      "date": "2026-06-18",
+      "day_of_week": "Thursday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Bhagwat Katha by Akhil Ji Maharaj (Day 5)",
+      "description": "Daily Priti Bhoj/Dinner Served following Aarti."
+    },
+    {
+      "id": "68",
+      "date": "2026-06-19",
+      "day_of_week": "Friday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Bhagwat Katha by Akhil Ji Maharaj (Day 6)",
+      "description": "Daily Priti Bhoj/Dinner Served following Aarti."
+    },
+    {
+      "id": "69",
+      "date": "2026-06-20",
+      "day_of_week": "Saturday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Bhagwat Katha by Akhil Ji Maharaj (Day 7)",
+      "description": "Daily Priti Bhoj/Dinner Served following Aarti."
+    },
+    {
+      "id": "70",
+      "date": "2026-06-21",
       "day_of_week": "Sunday",
       "time": "5:00 PM – 7:00 PM",
-      "title": "Jayeshtha Adhik/Shukla Purnima – Purnima Satyanarayana Pooja & Katha",
+      "title": "Bhagwat Katha Conclusion & Father's Day Celebrations",
+      "description": "Father's Day, Bhanu Saptami, Longest Day of the Year, and International Yoga Day celebrations. Daily Priti Bhoj/Dinner Served.",
+      "highlighted": true
+    },
+    {
+      "id": "71",
+      "date": "2026-06-23",
+      "day_of_week": "Tuesday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Bada Mangal #8 – Hanuman Ji Pooja & Prayers",
       "description": "Priti Bhoj Served."
+    },
+    {
+      "id": "72",
+      "date": "2026-06-25",
+      "day_of_week": "Thursday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Nirjala Ekadashi / Pandavas Ekadashi / Gayatri Jayanti",
+      "description": "Pooja, Chalisa, Prayers, Bhajans and Aartis. Priti Bhoj/Dinner Served."
+    },
+    {
+      "id": "73",
+      "date": "2026-06-26",
+      "day_of_week": "Friday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Musical Yoga & Meditation for Better Living (Day 1)",
+      "description": "Three-day special program by Yogiraj Om Prakash Maharaj Ji. Admission Free. Donations Requested as per Swami Ji's flyer.",
+      "highlighted": true
+    },
+    {
+      "id": "74",
+      "date": "2026-06-27",
+      "day_of_week": "Saturday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Musical Yoga & Meditation for Better Living (Day 2)",
+      "description": "Yoga, Bhajan, Meditation and Satsang with Yogiraj Om Prakash Maharaj Ji."
+    },
+    {
+      "id": "75",
+      "date": "2026-06-28",
+      "day_of_week": "Sunday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Musical Yoga & Meditation for Better Living (Day 3)",
+      "description": "Yoga, Bhajan, Meditation and Satsang with Yogiraj Om Prakash Maharaj Ji. Concluding Session."
+    },
+    {
+      "id": "76",
+      "date": "2026-06-29",
+      "day_of_week": "Monday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Jyeshtha Purnima / Vat Purnima / Kabir Das Jayanti",
+      "description": "Pooja, Satyanarayana Katha, Bhajans and Aartis. Priti Bhoj Served.",
+      "highlighted": true
     }
   ]
 }
