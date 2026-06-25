@@ -10,7 +10,10 @@
       "eveningAarti": "8 PM"
     },
     "facebook": "https://www.facebook.com/TheHinduTempleMD",
-    "paypal": "https://www.paypal.com/cgi-bin/webscr",
+    "paypal": {
+      "action": " https://www.paypal.com/donate?",
+      "hostedButtonId": "EAAMZV6CH4MLS"
+    },
     "hallRentalEmail": "vippanchopra@yahoo.com",
     "mapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3101.7!2d-76.9717!3d38.9897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c6b3b3b3b3b3%3A0x0!2s10001+Riggs+Rd%2C+Adelphi%2C+MD+20783!5e0!3m2!1sen!2sus!4v1620000000000!5m2!1sen!2sus",
     "mapsDirections": "https://www.google.com/maps/dir/?api=1&destination=10001+Riggs+Road,+Adelphi,+MD+20783",

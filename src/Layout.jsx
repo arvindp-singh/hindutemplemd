@@ -235,14 +235,24 @@ export default function Layout({ children, currentPageName }) {
                   </Link>
                 );
               })}
-              <a
-                href={temple.paypal}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mt-3 block text-center px-4 py-3 rounded-xl bg-gradient-to-r from-[#D4760A] to-[#E89530] text-white font-semibold shadow-lg transition-all"
+              <form
+                action={temple.paypal.action}
+                method="post"
+                target="_top"
+                className="mt-3"
               >
-                Donate
-              </a>
+                <input
+                  type="hidden"
+                  name="hosted_button_id"
+                  value={temple.paypal.hostedButtonId}
+                />
+                <button
+                  type="submit"
+                  className="block w-full rounded-xl bg-gradient-to-r from-[#D4760A] to-[#E89530] px-4 py-3 text-center font-semibold text-white shadow-lg transition-all hover:scale-[1.01]"
+                >
+                  Donate
+                </button>
+              </form>
             </nav>
           </div>
         )}
