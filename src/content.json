@@ -11,7 +11,7 @@
     },
     "facebook": "https://www.facebook.com/TheHinduTempleMD",
     "paypal": {
-      "action": " https://www.paypal.com/donate?",
+      "action": "https://www.paypal.com/donate",
       "hostedButtonId": "EAAMZV6CH4MLS"
     },
     "hallRentalEmail": "vippanchopra@yahoo.com",

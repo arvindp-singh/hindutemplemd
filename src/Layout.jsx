@@ -57,6 +57,7 @@ const CURRENT_YEAR = new Date().getFullYear();
 export default function Layout({ children, currentPageName }) {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [expandedSubmenu, setExpandedSubmenu] = useState(null);
+  const donateUrl = `${temple.paypal.action}?hosted_button_id=${temple.paypal.hostedButtonId}`;
 
   return (
     <div className="min-h-screen flex flex-col bg-[#FFFBF5]">
@@ -159,7 +160,7 @@ export default function Layout({ children, currentPageName }) {
           {/* Right Side Actions */}
           <div className="flex items-center gap-2 md:gap-3">
             <a
-              href={temple.paypal}
+              href={donateUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="hidden sm:inline-block bg-gradient-to-r from-[#D4760A] to-[#E89530] text-white px-5 py-2.5 rounded-full font-semibold shadow-lg hover:shadow-xl transition-all hover:scale-[1.02]"
@@ -235,7 +236,7 @@ export default function Layout({ children, currentPageName }) {
                   </Link>
                 );
               })}
-              <form
+              {/* <form
                 action={temple.paypal.action}
                 method="post"
                 target="_top"
@@ -252,7 +253,15 @@ export default function Layout({ children, currentPageName }) {
                 >
                   Donate
                 </button>
-              </form>
+              </form> */}
+              <a
+                href={donateUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-3 block w-full rounded-xl bg-gradient-to-r from-[#D4760A] to-[#E89530] px-4 py-3 text-center font-semibold text-white shadow-lg transition-all hover:scale-[1.01]"
+              >
+                Donate
+              </a>
             </nav>
           </div>
         )}
@@ -366,10 +375,10 @@ export default function Layout({ children, currentPageName }) {
               rights reserved.
             </p>
             <a
-              href={temple.paypal}
+              href={donateUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-[#E89530] hover:text-[#F0D68A] text-sm font-medium transition-colors"
+              className="inline-flex w-auto items-center justify-center rounded-full px-4 py-2 text-sm font-medium text-[#E89530] hover:text-[#F0D68A] border border-[#E89530]/30 hover:border-[#F0D68A]/50 transition-colors"
             >
               Support the Temple
             </a>
