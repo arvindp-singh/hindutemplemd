@@ -397,9 +397,9 @@
     },
     {
       "id": "79",
-      "date": "2026-07-09",
-      "day_of_week": "Thursday",
-      "time": "6:30 PM – 8:00 PM",
+      "date": "2026-07-07",
+      "day_of_week": "Tuesday",
+      "time": "7:00 PM – 8:00 PM",
       "title": "Hanuman Ji Pooja, Katha & Aartis",
       "description": "Special Hanuman Ji Pooja followed by Katha and Aartis. Priti Bhoj Served."
     },
@@ -417,7 +417,7 @@
       "date": "2026-07-12",
       "day_of_week": "Sunday",
       "time": "5:30 PM – 7:30 PM",
-      "title": "Adhyatmic & Valmiki Ramayana Katha (Day 1)",
+      "title": "Bhagavat Pravachan(Day 1)",
       "description": "By Swami Vigyananand Maharaj Ji. Sponsors Welcome. Donations Appreciated. Daily Priti Bhoj/Dinner Served following Aarti.",
       "highlighted": true
     },
@@ -426,23 +426,23 @@
       "date": "2026-07-13",
       "day_of_week": "Monday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Adhyatmic & Valmiki Ramayana Katha (Day 2)",
+      "title": "Bhagavat Pravachan(Day 2)",
       "description": "By Swami Vigyananand Maharaj Ji. Daily Priti Bhoj/Dinner Served following Aarti."
     },
     {
       "id": "83",
       "date": "2026-07-14",
       "day_of_week": "Tuesday",
-      "time": "6:30 PM – 8:00 PM",
-      "title": "Hanuman Chalisa & Ramayana Katha (Day 3)",
-      "description": "Hanuman Chalisa at 6:30 PM followed by Ramayana Katha from 7:00 PM to 8:00 PM. Daily Priti Bhoj/Dinner Served."
+      "time": "7:00 PM – 8:00 PM",
+      "title": "Hanuman Chalisa & Bhagavat Pravachan (Day 3)",
+      "description": "Hanuman Chalisa at 6:30 PM followed by Bhagavat Pravachan from 7:00 PM to 8:00 PM. Daily Priti Bhoj/Dinner Served."
     },
     {
       "id": "84",
       "date": "2026-07-15",
       "day_of_week": "Wednesday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Adhyatmic & Valmiki Ramayana Katha (Day 4)",
+      "title": "Bhagavat Pravachan (Day 4)",
       "description": "Daily Priti Bhoj/Dinner Served following Aarti."
     },
     {
@@ -450,7 +450,7 @@
       "date": "2026-07-16",
       "day_of_week": "Thursday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Adhyatmic & Valmiki Ramayana Katha (Day 5)",
+      "title": "Bhagavat Pravachan (Day 5)",
       "description": "Daily Priti Bhoj/Dinner Served following Aarti."
     },
     {
@@ -458,7 +458,7 @@
       "date": "2026-07-17",
       "day_of_week": "Friday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Adhyatmic & Valmiki Ramayana Katha (Day 6)",
+      "title": "Bhagavat Pravachan (Day 6)",
       "description": "Daily Priti Bhoj/Dinner Served following Aarti."
     },
     {
@@ -466,7 +466,7 @@
       "date": "2026-07-18",
       "day_of_week": "Saturday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Adhyatmic & Valmiki Ramayana Katha (Day 7)",
+      "title": "Bhagavat Pravachan (Day 7)",
       "description": "Daily Priti Bhoj/Dinner Served following Aarti."
     },
     {
@@ -474,7 +474,7 @@
       "date": "2026-07-19",
       "day_of_week": "Sunday",
       "time": "5:30 PM – 7:30 PM",
-      "title": "Adhyatmic & Valmiki Ramayana Katha Conclusion (Day 8)",
+      "title": "Bhagavat Pravachan Conclusion (Day 8)",
       "description": "Concluding Ramayana Katha by Swami Vigyananand Maharaj Ji. Daily Priti Bhoj/Dinner Served following Aarti.",
       "highlighted": true
     },
