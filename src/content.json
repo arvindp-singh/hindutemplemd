@@ -65,6 +65,10 @@
       {
         "month": "May",
         "url": "/statements/05_2026_Hindu_Temple_Financial_Statement.pdf"
+      },
+      {
+        "month": "June",
+        "url": "/statements/06_2026_Hindu_Temple_Financial_Statement.pdf"
       }
     ]
   },
@@ -379,146 +383,223 @@
   ],
   "events": [
     {
-      "id": "77",
-      "date": "2026-07-04",
-      "day_of_week": "Saturday",
-      "time": "",
-      "title": "Happy 4th of July – America's 250th Independence Day",
-      "description": "Celebrating the Semiquincentennial (250th Anniversary) of America's Independence Day.",
-      "highlighted": true
-    },
-    {
-      "id": "78",
-      "date": "2026-07-05",
-      "day_of_week": "Sunday",
-      "time": "5:00 PM – 7:00 PM",
-      "title": "Sunday Satsang",
-      "description": "Pooja, Bhajans, Katha, Aartis. Priti Bhoj Served."
-    },
-    {
-      "id": "79",
-      "date": "2026-07-07",
-      "day_of_week": "Tuesday",
-      "time": "7:00 PM – 8:00 PM",
-      "title": "Hanuman Ji Pooja, Katha & Aartis",
-      "description": "Special Hanuman Ji Pooja followed by Katha and Aartis. Priti Bhoj Served."
-    },
-    {
-      "id": "80",
-      "date": "2026-07-11",
-      "day_of_week": "Saturday",
-      "time": "4:30 PM – 8:00 PM",
-      "title": "Temple Anniversary – Nava Graha & Hanuman Ji Pooja and Havan",
-      "description": "Outdoor Temple Anniversary celebrations with Nava Graha & Hanuman Ji Pooja, Havan, Sunderkaand Recitation, Kirtan, Bhajans and Aartis. Priti Bhoj Served.",
-      "highlighted": true
-    },
-    {
-      "id": "81",
-      "date": "2026-07-12",
+      "id": "94",
+      "date": "2026-08-02",
       "day_of_week": "Sunday",
       "time": "5:30 PM – 7:30 PM",
-      "title": "Bhagavat Pravachan(Day 1)",
-      "description": "By Swami Vigyananand Maharaj Ji. Sponsors Welcome. Donations Appreciated. Daily Priti Bhoj/Dinner Served following Aarti.",
-      "highlighted": true
+      "title": "Sunday Satsang",
+      "description": "Pooja, Bhajans, Katha and Aartis. Priti Bhoj Served."
     },
     {
-      "id": "82",
-      "date": "2026-07-13",
+      "id": "95",
+      "date": "2026-08-03",
       "day_of_week": "Monday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Bhagavat Pravachan(Day 2)",
-      "description": "By Swami Vigyananand Maharaj Ji. Daily Priti Bhoj/Dinner Served following Aarti."
+      "title": "1st Sawan Somvar Pooja",
+      "description": "Pooja, Abhishek, Kirtan and Aartis. Priti Bhoj Served.",
+      "highlighted": true
     },
     {
-      "id": "83",
-      "date": "2026-07-14",
+      "id": "96",
+      "date": "2026-08-04",
       "day_of_week": "Tuesday",
-      "time": "7:00 PM – 8:00 PM",
-      "title": "Hanuman Chalisa & Bhagavat Pravachan (Day 3)",
-      "description": "Hanuman Chalisa at 6:30 PM followed by Bhagavat Pravachan from 7:00 PM to 8:00 PM. Daily Priti Bhoj/Dinner Served."
-    },
-    {
-      "id": "84",
-      "date": "2026-07-15",
-      "day_of_week": "Wednesday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Bhagavat Pravachan (Day 4)",
-      "description": "Daily Priti Bhoj/Dinner Served following Aarti."
+      "title": "Hanuman Ji Prayers, Sunderkaand Paath & Katha",
+      "description": "Hanuman Ji Prayers, Sunderkaand Paath and Katha followed by Aarti."
     },
     {
-      "id": "85",
-      "date": "2026-07-16",
+      "id": "97",
+      "date": "2026-08-08",
+      "day_of_week": "Saturday",
+      "time": "3:00 PM – 7:30 PM",
+      "title": "Hanuman Ji Pooja & Sunderkaand Paath",
+      "description": "Hanuman Ji Pooja, Sunderkaand Paath Recitation, Kirtan and Bhajans. Aarti at 7:00 PM followed by Priti Bhoj.",
+      "highlighted": true
+    },
+    {
+      "id": "98",
+      "date": "2026-08-09",
+      "day_of_week": "Sunday",
+      "time": "5:30 PM – 7:30 PM",
+      "title": "Sunday Satsang",
+      "description": "Pooja, Bhajans, Katha and Aartis. Priti Bhoj Served."
+    },
+    {
+      "id": "99",
+      "date": "2026-08-10",
+      "day_of_week": "Monday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "2nd Sawan Somvar Pooja",
+      "description": "Pooja, Abhishek, Kirtan and Aartis. Priti Bhoj Served.",
+      "highlighted": true
+    },
+    {
+      "id": "100",
+      "date": "2026-08-11",
+      "day_of_week": "Tuesday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Hanuman Ji Prayers, Sunderkaand Paath & Katha",
+      "description": "Hanuman Ji Prayers, Sunderkaand Paath and Katha followed by Aarti."
+    },
+    {
+      "id": "101",
+      "date": "2026-08-15",
+      "day_of_week": "Saturday",
+      "time": "6:00 PM – 8:00 PM",
+      "title": "Indian Independence Day Cultural Program & Flag Hoisting",
+      "description": "Indian Independence Day Cultural Program and Flag Hoisting Ceremonies in the Prayer Hall. Free pre-registration is required by August 10, 2026. Children and adults are welcome to participate with patriotic songs and dance performances.",
+      "highlighted": true,
+      "registration": {
+        "deadline": "2026-08-10",
+        "instructions": "Email or text your name, contact information, and the title of your song or dance.",
+        "contacts": [
+          {
+            "email": "skkhanna15@yahoo.com",
+            "phone": "240-246-6028"
+          },
+          {
+            "email": "vijay11313@yahoo.com",
+            "phone": "240-432-8024"
+          }
+        ]
+      }
+    },
+    {
+      "id": "102",
+      "date": "2026-08-16",
+      "day_of_week": "Sunday",
+      "time": "5:30 PM – 7:30 PM",
+      "title": "Sunday Satsang",
+      "description": "Pooja, Bhajans, Katha and Aartis. Priti Bhoj Served."
+    },
+    {
+      "id": "103",
+      "date": "2026-08-17",
+      "day_of_week": "Monday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "3rd Sawan Somvar & Naag Panchami",
+      "description": "Pooja, Abhishek, Kirtan and Aartis. Priti Bhoj Served.",
+      "highlighted": true
+    },
+    {
+      "id": "104",
+      "date": "2026-08-18",
+      "day_of_week": "Tuesday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Hanuman Ji Prayers, Sunderkaand Paath & Katha",
+      "description": "Hanuman Ji Prayers, Sunderkaand Paath and Katha followed by Aarti."
+    },
+    {
+      "id": "105",
+      "date": "2026-08-23",
+      "day_of_week": "Sunday",
+      "time": "5:30 PM – 7:30 PM",
+      "title": "Sunday Satsang",
+      "description": "Pooja, Bhajans, Katha and Aartis. Priti Bhoj Served."
+    },
+    {
+      "id": "106",
+      "date": "2026-08-24",
+      "day_of_week": "Monday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "4th Sawan Somvar Pooja",
+      "description": "Pooja, Abhishek, Kirtan and Aartis. Priti Bhoj Served.",
+      "highlighted": true
+    },
+    {
+      "id": "107",
+      "date": "2026-08-25",
+      "day_of_week": "Tuesday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Hanuman Ji Prayers, Sunderkaand Paath & Katha",
+      "description": "Hanuman Ji Prayers, Sunderkaand Paath and Katha followed by Aarti."
+    },
+    {
+      "id": "108",
+      "date": "2026-08-27",
       "day_of_week": "Thursday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Bhagavat Pravachan (Day 5)",
-      "description": "Daily Priti Bhoj/Dinner Served following Aarti."
+      "title": "Shravana Purnima Satyanarayana Pooja & Katha",
+      "description": "Satyanarayana Pooja and Katha followed by Bhajans and Aartis. Priti Bhoj Served.",
+      "highlighted": true
     },
     {
-      "id": "86",
-      "date": "2026-07-17",
+      "id": "109",
+      "date": "2026-08-28",
       "day_of_week": "Friday",
-      "time": "6:30 PM – 8:00 PM",
-      "title": "Bhagavat Pravachan (Day 6)",
-      "description": "Daily Priti Bhoj/Dinner Served following Aarti."
-    },
-    {
-      "id": "87",
-      "date": "2026-07-18",
-      "day_of_week": "Saturday",
-      "time": "6:30 PM – 8:00 PM",
-      "title": "Bhagavat Pravachan (Day 7)",
-      "description": "Daily Priti Bhoj/Dinner Served following Aarti."
-    },
-    {
-      "id": "88",
-      "date": "2026-07-19",
-      "day_of_week": "Sunday",
-      "time": "5:30 PM – 7:30 PM",
-      "title": "Bhagavat Pravachan Conclusion (Day 8)",
-      "description": "Concluding Ramayana Katha by Swami Vigyananand Maharaj Ji. Daily Priti Bhoj/Dinner Served following Aarti.",
+      "time": "7:00 PM – 8:00 PM",
+      "title": "Gayatri Jayanti Pooja & Raksha Bandhan Celebration",
+      "description": "Gayatri Jayanti Pooja and Bhajans. Happy Raksha Bandhan.",
       "highlighted": true
     },
     {
-      "id": "89",
-      "date": "2026-07-21",
+      "id": "110",
+      "date": "2026-08-30",
+      "day_of_week": "Sunday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Special 8 Days of Katha – Day 1",
+      "description": "Special Katha by Acharya Krishna Kant Dwivedi. Priti Bhoj will be served following Aarti. All are welcome.",
+      "highlighted": true
+    },
+    {
+      "id": "111",
+      "date": "2026-08-31",
+      "day_of_week": "Monday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Special 8 Days of Katha – Day 2",
+      "description": "Special Katha by Acharya Krishna Kant Dwivedi. Priti Bhoj will be served following Aarti. All are welcome.",
+      "highlighted": true
+    },
+    {
+      "id": "112",
+      "date": "2026-09-01",
       "day_of_week": "Tuesday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Parvati Jayanti & Hanuman Ji Pooja",
-      "description": "Parvati Jayanti celebrations with Hanuman Ji Pooja, Prayers and Aartis. Priti Bhoj Served."
-    },
-    {
-      "id": "90",
-      "date": "2026-07-25",
-      "day_of_week": "Saturday",
-      "time": "11:00 AM – 1:30 PM",
-      "title": "Annual JOGA Ratha Yatra",
-      "description": "Deity Puja, Chariot Pulling (Ratha Yatra) and Mahaprasad (Lunch).",
+      "title": "Hanuman Chalisa & Special Katha – Day 3",
+      "description": "Hanuman Chalisa at 6:30 PM followed by Katha from 7:00 PM to 8:00 PM by Acharya Krishna Kant Dwivedi. Priti Bhoj will be served following Aarti.",
       "highlighted": true
     },
     {
-      "id": "91",
-      "date": "2026-07-26",
-      "day_of_week": "Sunday",
-      "time": "5:30 PM – 7:30 PM",
-      "title": "Satsang & Ravi Pradosh Vrat",
-      "description": "Satsang and Ravi Pradosh Vrat (Surya/Bhanu Pradosham) dedicated to Lord Shiva. Priti Bhoj Served."
-    },
-    {
-      "id": "92",
-      "date": "2026-07-29",
+      "id": "113",
+      "date": "2026-09-02",
       "day_of_week": "Wednesday",
       "time": "6:30 PM – 8:00 PM",
-      "title": "Guru Purnima Vyas Pooja & Satyanarayana Katha",
-      "description": "Guru Purnima celebrations with Vyas Pooja, Satyanarayana Katha, Bhajans and Aartis. Priti Bhoj Served.",
+      "title": "Special 8 Days of Katha – Day 4",
+      "description": "Special Katha by Acharya Krishna Kant Dwivedi. Priti Bhoj will be served following Aarti. All are welcome."
+    },
+    {
+      "id": "114",
+      "date": "2026-09-03",
+      "day_of_week": "Thursday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Special 8 Days of Katha – Day 5",
+      "description": "Special Katha by Acharya Krishna Kant Dwivedi. Priti Bhoj will be served following Aarti. Additional details will be posted."
+    },
+    {
+      "id": "115",
+      "date": "2026-09-04",
+      "day_of_week": "Friday",
+      "time": "",
+      "title": "Janmashtami Celebration & Special Katha – Day 6",
+      "description": "Janmashtami celebrations and Special Katha by Acharya Krishna Kant Dwivedi. Free pre-registration is required for singers only.",
       "highlighted": true
     },
     {
-      "id": "93",
-      "date": "2026-07-30",
-      "day_of_week": "Thursday",
-      "time": "6:00 PM – 8:30 PM",
-      "title": "Sai Baba Group – Guru Purnima Celebrations",
-      "description": "Special Guru Purnima celebrations with Pooja and Bhajans organized by the Sai Baba Group. Sawan Month Begins.",
+      "id": "116",
+      "date": "2026-09-05",
+      "day_of_week": "Saturday",
+      "time": "",
+      "title": "Nand Mahotsav Celebrations & Special Katha – Day 7",
+      "description": "Nand Mahotsav celebrations with song and dance performances and Special Katha by Acharya Krishna Kant Dwivedi.",
+      "highlighted": true
+    },
+    {
+      "id": "117",
+      "date": "2026-09-06",
+      "day_of_week": "Sunday",
+      "time": "",
+      "title": "Special 8 Days of Katha – Conclusion",
+      "description": "Concluding day of the Special 8 Days of Katha by Acharya Krishna Kant Dwivedi. Priti Bhoj will be served following Aarti. All are welcome.",
       "highlighted": true
     }
   ]
