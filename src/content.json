@@ -106,7 +106,11 @@
       {
         "name": "Anteshthi",
         "icon": "🪷",
-        "desc": "The ceremonies related with funerals — last rites. When death is imminent, gold, tulsi leaf, and Ganga water are placed in the mouth. The eldest son usually administers the last rites."
+        "desc": "The ceremonies related with funerals — last rites. When death is imminent, gold, tulsi leaf, and Ganga water are placed in the mouth. The eldest son usually administers the last rites.",
+        "document": {
+          "title": "Anteshthi Last Rites Information",
+          "url": "/documents/UHJT Guidance for Funeral  Ceremony April 8, 2022.pdf"
+        }
       }
     ],
     "other": [
