@@ -404,8 +404,7 @@
       "day_of_week": "Monday",
       "time": "6:30 PM – 8:00 PM",
       "title": "1st Sawan Somvar Pooja",
-      "description": "Pooja, Abhishek, Kirtan and Aartis. Priti Bhoj Served.",
-      "highlighted": true
+      "description": "Pooja, Abhishek, Kirtan and Aartis. Priti Bhoj Served."
     },
     {
       "id": "96",
@@ -421,8 +420,7 @@
       "day_of_week": "Saturday",
       "time": "3:00 PM – 7:30 PM",
       "title": "Hanuman Ji Pooja & Sunderkaand Paath",
-      "description": "Hanuman Ji Pooja, Sunderkaand Paath Recitation, Kirtan and Bhajans. Aarti at 7:00 PM followed by Priti Bhoj.",
-      "highlighted": true
+      "description": "Hanuman Ji Pooja, Sunderkaand Paath Recitation, Kirtan and Bhajans. Aarti at 7:00 PM followed by Priti Bhoj."
     },
     {
       "id": "98",
@@ -438,8 +436,7 @@
       "day_of_week": "Monday",
       "time": "6:30 PM – 8:00 PM",
       "title": "2nd Sawan Somvar Pooja",
-      "description": "Pooja, Abhishek, Kirtan and Aartis. Priti Bhoj Served.",
-      "highlighted": true
+      "description": "Pooja, Abhishek, Kirtan and Aartis. Priti Bhoj Served."
     },
     {
       "id": "100",
@@ -456,7 +453,7 @@
       "time": "6:00 PM – 8:00 PM",
       "title": "Indian Independence Day Cultural Program & Flag Hoisting",
       "description": "Indian Independence Day Cultural Program and Flag Hoisting Ceremonies in the Prayer Hall. Free pre-registration is required by August 10, 2026. Children and adults are welcome to participate with patriotic songs and dance performances.",
-      "highlighted": true,
+
       "registration": {
         "deadline": "2026-08-10",
         "instructions": "Email or text your name, contact information, and the title of your song or dance.",
@@ -486,8 +483,7 @@
       "day_of_week": "Monday",
       "time": "6:30 PM – 8:00 PM",
       "title": "3rd Sawan Somvar & Naag Panchami",
-      "description": "Pooja, Abhishek, Kirtan and Aartis. Priti Bhoj Served.",
-      "highlighted": true
+      "description": "Pooja, Abhishek, Kirtan and Aartis. Priti Bhoj Served."
     },
     {
       "id": "104",
@@ -511,8 +507,7 @@
       "day_of_week": "Monday",
       "time": "6:30 PM – 8:00 PM",
       "title": "4th Sawan Somvar Pooja",
-      "description": "Pooja, Abhishek, Kirtan and Aartis. Priti Bhoj Served.",
-      "highlighted": true
+      "description": "Pooja, Abhishek, Kirtan and Aartis. Priti Bhoj Served."
     },
     {
       "id": "107",
@@ -528,8 +523,7 @@
       "day_of_week": "Thursday",
       "time": "6:30 PM – 8:00 PM",
       "title": "Shravana Purnima Satyanarayana Pooja & Katha",
-      "description": "Satyanarayana Pooja and Katha followed by Bhajans and Aartis. Priti Bhoj Served.",
-      "highlighted": true
+      "description": "Satyanarayana Pooja and Katha followed by Bhajans and Aartis. Priti Bhoj Served."
     },
     {
       "id": "109",
@@ -537,8 +531,7 @@
       "day_of_week": "Friday",
       "time": "7:00 PM – 8:00 PM",
       "title": "Gayatri Jayanti Pooja & Raksha Bandhan Celebration",
-      "description": "Gayatri Jayanti Pooja and Bhajans. Happy Raksha Bandhan.",
-      "highlighted": true
+      "description": "Gayatri Jayanti Pooja and Bhajans. Happy Raksha Bandhan."
     },
     {
       "id": "110",
