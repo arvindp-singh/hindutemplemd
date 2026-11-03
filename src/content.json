@@ -393,148 +393,174 @@
       "alt_text": "Goddess Durga in divine form"
     }
   ],
-
   "events": [
     {
-      "id": "1",
-      "date": "2026-10-03",
-      "day_of_week": "Saturday",
-      "time": "5:00 PM – 8:00 PM",
-      "title": "Hanuman Ji Pooja & Sunderkaand Paath",
-      "description": "Hanuman Ji Pooja & Sunderkaand Paath Recitation, Kirtan, Bhajans, followed by 8:00 PM Aarti and Priti Bhoj.",
-      "highlighted": true
-    },
-    {
-      "id": "2",
-      "date": "2026-10-04",
+      "id": "nov-01-satsang",
+      "date": "2026-11-01",
       "day_of_week": "Sunday",
       "time": "5:00 PM – 7:00 PM",
       "title": "Sunday Satsang",
-      "description": "Sunday Satsang with Pooja, Bhajans, Katha and Aartis. Priti Bhoj served."
+      "description": "Sunday Satsang in the prayer hall. Priti Bhoj/Dinner served.",
+      "highlighted": false
     },
     {
-      "id": "3",
-      "date": "2026-10-06",
+      "id": "nov-03-hanuman",
+      "date": "2026-11-03",
       "day_of_week": "Tuesday",
       "time": "7:00 PM – 8:00 PM",
       "title": "Hanuman Ji Prayers, Sunderkaand Paath & Katha",
-      "description": "Hanuman Ji Prayers, Sunderkaand Paath & Katha followed by Aarti."
+      "description": "Hanuman Ji Prayers, Sunderkaand Paath and Katha, followed by Aarti.",
+      "highlighted": false
     },
     {
-      "id": "4",
-      "date": "2026-10-11",
-      "day_of_week": "Sunday",
-      "time": "4:00 PM – 7:30 PM",
-      "title": "Sharad Navratri – Day 1",
-      "description": "Day 1 of Sharad Navratri. 4:00 PM Pooja, 5:00 PM Mata Chowki, and 7:30 PM Aarti. Special morning Pooja Ceremony from 8:30 AM to 10:00 AM includes Durga Mata Akhand Jyoti Sthapana, Pooja & Aarti. Durga Mata Pooja, Chalisa, Chowki, Chunni, Kanjak Poojan, & Aarti followed by Priti Bhoj/Dinner.",
-      "highlighted": true
-    },
-    {
-      "id": "5",
-      "date": "2026-10-12",
-      "day_of_week": "Monday",
-      "time": "6:00 PM – 9:00 PM",
-      "title": "Sharad Navratri – Day 2",
-      "description": "6:00 PM Pooja, 7:00 PM Mata Chowki, and 9:00 PM Aarti.",
-      "highlighted": true
-    },
-    {
-      "id": "6",
-      "date": "2026-10-13",
-      "day_of_week": "Tuesday",
-      "time": "6:00 PM – 9:00 PM",
-      "title": "Sharad Navratri – Day 3",
-      "description": "6:00 PM Pooja, 7:00 PM Mata Chowki, and 9:00 PM Aarti.",
-      "highlighted": true
-    },
-    {
-      "id": "7",
-      "date": "2026-10-14",
-      "day_of_week": "Wednesday",
-      "time": "6:00 PM – 9:00 PM",
-      "title": "Sharad Navratri – Day 4",
-      "description": "6:00 PM Pooja, 7:00 PM Mata Chowki, and 9:00 PM Aarti.",
-      "highlighted": true
-    },
-    {
-      "id": "8",
-      "date": "2026-10-15",
-      "day_of_week": "Thursday",
-      "time": "6:00 PM – 9:00 PM",
-      "title": "Sharad Navratri – Day 5",
-      "description": "6:00 PM Pooja, 7:00 PM Mata Chowki, and 9:00 PM Aarti.",
-      "highlighted": true
-    },
-    {
-      "id": "9",
-      "date": "2026-10-16",
+      "id": "nov-06-dhanteras",
+      "date": "2026-11-06",
       "day_of_week": "Friday",
-      "time": "6:00 PM – 9:00 PM",
-      "title": "Sharad Navratri – Day 6",
-      "description": "6:00 PM Pooja, 7:00 PM Mata Chowki, and 9:00 PM Aarti.",
-      "highlighted": true
+      "time": "Time not specified",
+      "title": "Dhanteras",
+      "description": "Dhanteras, one of the five Diwali festivals listed by the temple.",
+      "highlighted": false
     },
     {
-      "id": "10",
-      "date": "2026-10-17",
+      "id": "nov-07-naraka",
+      "date": "2026-11-07",
       "day_of_week": "Saturday",
-      "time": "5:00 PM – Midnight",
-      "title": "Sharad Navratri – Day 7 JAGRAN",
-      "description": "JAGRAN. 5:00–6:30 PM Pooja; 6:30–9:00 PM program with Guest Performer Mayank Rao from India; 9:00–10:00 PM open for devotees singing time; 10:00 PM–Midnight Tara Rani Katha by Pandit Pitamber Sharma; Midnight Aarti.",
-      "highlighted": true
+      "time": "Time not specified",
+      "title": "Naraka Chaturdashi (Choti Diwali)",
+      "description": "Naraka Chaturdashi, also known as Choti Diwali; part of the five Diwali festivals listed by the temple.",
+      "highlighted": false
     },
     {
-      "id": "11",
-      "date": "2026-10-18",
-      "day_of_week": "Sunday",
-      "time": "4:00 PM – 7:30 PM",
-      "title": "Durga Ashtami – Day 8",
-      "description": "Durga Ashtami. 4:00 PM Pooja, 5:00 PM Mata Chowki, Aarti, and Maha Kanjak Poojan.",
-      "highlighted": true
-    },
-    {
-      "id": "12",
-      "date": "2026-10-19",
-      "day_of_week": "Monday",
-      "time": "6:00 PM – 9:00 PM",
-      "title": "Sharad Navratri – Day 9",
-      "description": "6:00 PM Pooja, 7:00 PM Mata Chowki, and 9:00 PM Aarti.",
-      "highlighted": true
-    },
-    {
-      "id": "13",
-      "date": "2026-10-20",
-      "day_of_week": "Tuesday",
-      "time": "6:30 PM – 8:00 PM",
-      "title": "Sharad Navratri & Dussehra – Day 10",
-      "description": "6:30 PM Hanuman Ji & Shri Ram Jayanti and Aarti; 7:30 PM Dussehra celebration with Ravan Dahan.",
-      "highlighted": true
-    },
-    {
-      "id": "14",
-      "date": "2026-10-25",
+      "id": "nov-08-diwali",
+      "date": "2026-11-08",
       "day_of_week": "Sunday",
       "time": "5:00 PM – 7:00 PM",
-      "title": "Sharad Purnima – Satyanarayana Pooja & Katha",
-      "description": "Sharad Purnima Satyanarayana Pooja & Katha from 5:00 PM to 7:00 PM. 7:00 PM Aarti followed by Priti Bhoj.",
+      "title": "Diwali – Ganesh & Laxmi Pooja",
+      "description": "Diwali celebration with Ganesh and Laxmi Pooja, Chalisa, Bhajans, Aarti and Prasad. The temple closes at 7:00 PM following Aarti. No Priti Bhoj/Dinner will be served.",
       "highlighted": true
     },
     {
-      "id": "15",
-      "date": "2026-10-27",
+      "id": "nov-10-govardhan",
+      "date": "2026-11-10",
+      "day_of_week": "Tuesday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Govardhan Puja & Hanuman Ji Prayers",
+      "description": "Govardhan Puja, Hanuman Ji Prayers, Bhajans and Aarti. 56 Bhog and Priti Bhoj served.",
+      "highlighted": true
+    },
+    {
+      "id": "nov-10-bhai-dooj",
+      "date": "2026-11-10",
+      "day_of_week": "Tuesday",
+      "time": "Time not specified",
+      "title": "Bhai Dooj",
+      "description": "Bhai Dooj, listed in the temple's November five-festivals-of-Diwali announcement.",
+      "highlighted": false
+    },
+    {
+      "id": "nov-14-hanuman",
+      "date": "2026-11-14",
+      "day_of_week": "Saturday",
+      "time": "5:00 PM – 8:00 PM",
+      "title": "Hanuman Ji Pooja & Sunderkaand Paath",
+      "description": "Hanuman Ji Pooja and Sunderkaand Paath recitation, Kirtan and Bhajans. 8:00 PM Aarti followed by Priti Bhoj.",
+      "highlighted": false
+    },
+    {
+      "id": "nov-15-cultural",
+      "date": "2026-11-15",
+      "day_of_week": "Sunday",
+      "time": "4:30 PM – 7:00 PM",
+      "title": "Diwali Cultural Program",
+      "description": "Diwali Cultural Program with Satsang, Aarti and Priti Bhoj. Free pre-registration by November 9, 2026. Children and adults are welcome to participate as singers, dancers or musicians. Performances should be appropriate for the Temple. Register by emailing or texting your name, phone number, email address, performance type, song title and duration to skkhanna15@yahoo.com ((240) 246-6028) or vijay11313@yahoo.com ((240) 432-8024).",
+      "highlighted": true
+    },
+    {
+      "id": "nov-17-hanuman",
+      "date": "2026-11-17",
       "day_of_week": "Tuesday",
       "time": "7:00 PM – 8:00 PM",
       "title": "Hanuman Ji Prayers, Sunderkaand Paath & Katha",
-      "description": "Hanuman Ji Prayers, Sunderkaand Paath & Katha followed by Aarti."
+      "description": "Hanuman Ji Prayers, Sunderkaand Paath and Katha, followed by Aarti.",
+      "highlighted": false
     },
     {
-      "id": "16",
-      "date": "2026-10-29",
-      "day_of_week": "Thursday",
-      "time": "4:00 PM – 8:00 PM",
-      "title": "Karwa Chauth Festival – Pooja & Katha",
-      "description": "Karwa Chauth Festival Pooja & Katha from 4:00 PM to 8:00 PM, with Aarti at 8:00 PM. Please arrive by 3:30 PM for the first Pooja Thali circle Pooja at 4:00 PM. A new group circle Pooja begins every hour; the last circle starts at 7:00 PM. Bring your pooja thalis for blessings and prasad.",
+      "id": "nov-20-tulsi",
+      "date": "2026-11-20",
+      "day_of_week": "Friday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Tulsi Vivaha Ceremony & Devutthana Ekadashi",
+      "description": "Celebrate the sacred ceremonial wedding representing the divine union of Tulsi Mata (Holy Basil Plant/Goddess Lakshmi or Vrinda Devi) and Lord Vishnu or Krishna. Also celebrating Devutthana Ekadashi, which marks the waking of Lord Vishnu from his cosmic sleep and the end of Chaturmas. Priti Bhoj served.",
       "highlighted": true
+    },
+    {
+      "id": "nov-22-satsang",
+      "date": "2026-11-22",
+      "day_of_week": "Sunday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Sunday Satsang",
+      "description": "Sunday Satsang Pooja, Bhajans, Katha and Aartis. Priti Bhoj served.",
+      "highlighted": false
+    },
+    {
+      "id": "nov-24-kartik",
+      "date": "2026-11-24",
+      "day_of_week": "Tuesday",
+      "time": "6:30 PM – 8:00 PM",
+      "title": "Kartik Purnima Satyanarayan Pooja, Dev Diwali & Guru Nanak Jayanti",
+      "description": "Kartik Purnima Satyanarayan Pooja and Katha, Hanuman Ji Prayers, Dev Diwali and Guru Nanak Jayanti observances, followed by Aartis. Priti Bhoj served.",
+      "highlighted": true
+    },
+    {
+      "id": "nov-26-mata",
+      "date": "2026-11-26",
+      "day_of_week": "Thursday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Thanksgiving Day – Mata Chowki",
+      "description": "Mata Chowki on Thanksgiving Day. Priti Bhoj served.",
+      "highlighted": false
+    },
+    {
+      "id": "nov-29-satsang",
+      "date": "2026-11-29",
+      "day_of_week": "Sunday",
+      "time": "5:00 PM – 7:00 PM",
+      "title": "Sunday Satsang",
+      "description": "Sunday Satsang Pooja, Bhajans, Katha and Aartis. Priti Bhoj served.",
+      "highlighted": false
     }
-  ]
+  ],
+  "eventsNovember2026": {
+    "title": "Five Festivals of Diwali",
+    "intro": "Come & Celebrate with Us!",
+    "festivals": [
+      {
+        "date": "2026-11-06",
+        "day_of_week": "Friday",
+        "name": "Dhanteras"
+      },
+      {
+        "date": "2026-11-07",
+        "day_of_week": "Saturday",
+        "name": "Naraka Chaturdashi (Choti Diwali)"
+      },
+      {
+        "date": "2026-11-08",
+        "day_of_week": "Sunday",
+        "name": "Diwali (Lakshmi Puja)",
+        "description": "Festival of lights, honoring Goddess Lakshmi and Lord Ganesha."
+      },
+      {
+        "date": "2026-11-10",
+        "day_of_week": "Tuesday",
+        "name": "Govardhan Puja",
+        "description": "56 Bhog Prasad."
+      },
+      {
+        "date": "2026-11-10",
+        "day_of_week": "Tuesday",
+        "name": "Bhai Dooj"
+      }
+    ]
+  }
 }
