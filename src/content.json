@@ -77,6 +77,14 @@
       {
         "month": "August",
         "url": "/statements/08_2026_Hindu_Temple_Financial_Statement.pdf"
+      },
+      {
+        "month": "September",
+        "url": "/statements/09_2026_Hindu_Temple_Financial_Statement.pdf"
+      },
+      {
+        "month": "October",
+        "url": "/statements/10_2026_Hindu_Temple_Financial_Statement.pdf"
       }
     ]
   },
@@ -511,7 +519,7 @@
       "description": "Kartik Purnima Satyanarayan Pooja and Katha, Hanuman Ji Prayers, Dev Diwali and Guru Nanak Jayanti observances, followed by Aartis. Priti Bhoj served.",
       "highlighted": true
     },
- 
+
     {
       "id": "nov-29-satsang",
       "date": "2026-11-29",
